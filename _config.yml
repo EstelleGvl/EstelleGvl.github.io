@@ -14,7 +14,7 @@ author: Estelle Guéville
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "index"
+  About me: "about"
   Research Projects:
     - The Paris Bible Project: "parisbible"
     - XXXX: ""
@@ -23,7 +23,7 @@ navbar-links:
   Blog: "blog"
   Contact: "contact"
 
-
+paginate_path: "/blog/page:num/"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
