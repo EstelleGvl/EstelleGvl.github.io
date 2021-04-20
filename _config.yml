@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-#title: Estelle Guéville
+title:
 
 # Your name to show in the footer
 author: Estelle Guéville
@@ -69,7 +69,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Estelle Guéville's website
+#rss-description: Estelle Guéville's website
 
 # --- General options --- #
 
