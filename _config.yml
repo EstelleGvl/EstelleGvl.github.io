@@ -14,7 +14,7 @@ author: Estelle Guéville
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "aboutme"
+  About me: "index"
   Research Projects:
     - The Paris Bible Project: "parisbible"
     - XXXX: ""
