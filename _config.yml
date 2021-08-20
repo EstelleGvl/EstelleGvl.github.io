@@ -17,11 +17,14 @@ navbar-links:
   About me: "about"
   Research Projects:
     - The Paris Bible Project: "parisbible"
-    - XXXX: ""
+    - Deep Illumination: ""
+    - Imagegrammar: ""
+    - Understanding Medieval Manuscripts Gilding Techniques: ""
+    - Mapping pilgrimages roads: ""
   Publications: "publications"
-  CV: ""
-  Blog: "/blog"
-  Contact: "contact"
+  CV: "https://drive.google.com/file/d/1S8b1LySqAo1D20iwhWOFRMFLel8zDQde/view?usp=sharing"
+#  Blog: "/blog"
+
 
 paginate_path: "/blog/page:num/"
 # --- Logo --- #
