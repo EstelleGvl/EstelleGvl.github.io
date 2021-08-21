@@ -6,23 +6,51 @@ subtitle: Assistant Curator and Researcher
 
 I am a French Assistant Curator and Researcher, currently working at Louvre Abu Dhabi. 
 
-In 2016, I joined the France-Museums agency for the Louvre Abu Dhabi project, where I participated in the opening of the museum. In July 2018, I joined the Louvre Abu Dhabi in the new “Research and Development” Department where I am helping to develop academic research in several fields, including research on medieval collections using digital methods.
+In 2016, I was hired by the France-Museums agency to help prepare the opening of the Louvre Abu Dhabi project. In July 2018, I joined the Louvre Abu Dhabi in the new “Research and Development” Department where I am helping to develop academic research in several fields, including research on medieval collections using digital methods.
 
 
 
 ## Research interests
 
+**Digital Humanities**
+
+I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to present to our team the *Winter Institute in Digital Humanities*, that he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
+
+Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS). 
 
 
 
+**Medieval Manuscripts**
 
-## Personal statement
+My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, questions of attribution and copy. 
+
+My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I have published part of the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts. 
+
+My main research projects so far have been focused on manuscripts ("Paris Bible Project", "Understanding Medieval Manuscripts Gilding Techniques", "Deep Illumination").
 
 
+
+**Cultural and Intellectual Exchanges, Global History**
+
+I am also an interdisciplinary researcher, interested by questions of cultural and intellectual exchange, particularly around the Mediterranean area. 
+
+As part of the Louvre Abu Dhabi scientific team, I have worked on several projects, including the exhibition *Furusiyya, the Art of Chivalry between East and West* for which I was Scientific Referee. It confronted the artistic manifestations of the life of this social group, emphasizing on the anthropological dimension and on the economical, social and cultural contexts. I also wrote pedagogical content and developed educational tools for the Louvre Abu Dhabi, such as the Sacred Texts Flipbooks which explain and compare manuscripts from different religions and cultures (Bible, Pentateuch, Qur'an, Sutra) or the Coinage wall.
+
+I am also developing a spatial humanities project titled "Mapping Pilgrimages Roads" which is based on a unique manuscript in the Louvre Abu Dhabi collection.
+
+
+
+**Gender and Economic Studies**
+
+Although my research has not really included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include
 
 
 
 ## In my free time
 
+If you combine both hyperactivity and an almost unhealthy curiosity, what do you get? Me, apparently.
 
+In my free time, I like to discover and experience as much as I can. I practice sports almost everyday, from boxing, to weights and squash. I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey) and go hiking, horse-riding or any other outdoor (and sometimes slightly dangerous) activity.
+
+Outside of museums and libraries, I am also a creator of non-award winning board-games and my friends activity-organizer.
 
