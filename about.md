@@ -22,19 +22,21 @@ Today, I tend to use digital methods and computational analysis to broaden the r
 
 **Medieval Manuscripts**
 
-My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, questions of attribution and copy. 
+My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, as well as questions of attribution and copy. 
 
 My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I have published part of the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts. 
 
-My main research projects so far have been focused on manuscripts ("Paris Bible Project", "Understanding Medieval Manuscripts Gilding Techniques", "Deep Illumination").
+My main research projects so far have been focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices ("Paris Bible Project"), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns  in corpora of similar manuscripts ("Deep Illumination").
 
 
 
 **Cultural and Intellectual Exchanges, Global History**
 
-I am also an interdisciplinary researcher, interested by questions of cultural and intellectual exchange, particularly around the Mediterranean area. 
+I am also an interdisciplinary researcher, interested by questions of cultural and intellectual exchange, particularly around the Mediterranean area. It can concern the mobility of texts but also travels and exchanges of techniques or appearance of similar cultural phenomena and practices in different cultures and civilizations.
 
-As part of the Louvre Abu Dhabi scientific team, I have worked on several projects, including the exhibition *Furusiyya, the Art of Chivalry between East and West* for which I was Scientific Referee. It confronted the artistic manifestations of the life of this social group, emphasizing on the anthropological dimension and on the economical, social and cultural contexts. I also wrote pedagogical content and developed educational tools for the Louvre Abu Dhabi, such as the Sacred Texts Flipbooks which explain and compare manuscripts from different religions and cultures (Bible, Pentateuch, Qur'an, Sutra) or the Coinage wall.
+As part of the Louvre Abu Dhabi scientific team, I have worked on several projects, including the exhibition *Furusiyya, the Art of Chivalry between East and West* for which I was Scientific Referee. It confronted the artistic manifestations of the life of this social group, emphasizing on the anthropological dimension and on the economical, social and cultural contexts.
+
+I participated in the development of the Permanent Galleries of the museum, particularly the wing dedicated to the Middle Ages, addressing the thematics of religions (including the symbolism of light in Christianism, Buddhism and Islam, the symbols of the faith or the practice of pilgrimage), the Asian Trade Routes and the exchanges around the Mediterranean sea (from the Silk Roads and commercial routes of frankincense, ivory ceramics, to the intellectual, scientific and political exchanges). I also wrote pedagogical content and developed educational tools for the Louvre Abu Dhabi, such as the Sacred Texts Flipbooks which explain and compare manuscripts from different religions and cultures (Bible, Pentateuch, Qur'an, Sutra) or the Coinage wall.
 
 I am also developing a spatial humanities project titled "Mapping Pilgrimages Roads" which is based on a unique manuscript in the Louvre Abu Dhabi collection.
 
@@ -42,15 +44,15 @@ I am also developing a spatial humanities project titled "Mapping Pilgrimages Ro
 
 **Gender and Economic Studies**
 
-Although my research has not really included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include
+Although my research has not really included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include them in the future. I am particularly interested in questions of women as authors and/or copyists, and the economy of manuscript production, both in *scriptoria* and in urban workshops. 
 
 
 
 ## In my free time
 
-If you combine both hyperactivity and an almost unhealthy curiosity, what do you get? Me, apparently.
+In my free time, I like to discover and experience as much as I can. I practice sports almost everyday, from boxing, to weights and squash. 
 
-In my free time, I like to discover and experience as much as I can. I practice sports almost everyday, from boxing, to weights and squash. I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey) and go hiking, horse-riding or any other outdoor (and sometimes slightly dangerous) activity.
+I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey) and go hiking, horse-riding, diving or any other outdoor (and sometimes slightly dangerous) activity.
 
-Outside of museums and libraries, I am also a creator of non-award winning board-games and my friends activity-organizer.
+Outside of museums and libraries, I am also a creator of non-award winning board-games, a desert and off-road driver and more often than not, my friends outdoor activity-organizer.
 
