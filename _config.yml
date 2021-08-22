@@ -17,8 +17,8 @@ navbar-links:
   About me: "about"
   Research Projects:
     - The Paris Bible Project: "parisbible"
-    - Deep Illumination: ""
-    - Imagegrammar: ""
+    - Deep Illumination: "deepillumination"
+    - Imagegrammar: "imagegrammar"
     - Understanding Medieval Manuscripts Gilding Techniques: ""
     - Mapping pilgrimages roads: ""
   Publications: "publications"
