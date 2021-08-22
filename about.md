@@ -8,7 +8,7 @@ I am a French Assistant Curator and Researcher, currently working at Louvre Abu 
 
 In 2016, I was hired by the France-Museums agency to help prepare the opening of the Louvre Abu Dhabi project. In July 2018, I joined the Louvre Abu Dhabi in the new “Research and Development” Department where I am helping to develop academic research in several fields, including research on medieval collections using digital methods.
 
-
+<br>
 
 ## Research interests
 
@@ -18,7 +18,7 @@ I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to
 
 Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS). 
 
-
+<br>
 
 **Medieval Manuscripts**
 
@@ -28,7 +28,7 @@ My master's thesis was a monograph study of a single manuscript held in the coll
 
 My main research projects so far have been focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices ("Paris Bible Project"), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns  in corpora of similar manuscripts ("Deep Illumination").
 
-
+<br>
 
 **Cultural and Intellectual Exchanges, Global History**
 
@@ -40,13 +40,15 @@ I participated in the development of the Permanent Galleries of the museum, part
 
 I am also developing a spatial humanities project titled "Mapping Pilgrimages Roads" which is based on a unique manuscript in the Louvre Abu Dhabi collection.
 
-
+<br>
 
 **Gender and Economic Studies**
 
 Although my research has not really included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include them in the future. I am particularly interested in questions of women as authors and/or copyists, and the economy of manuscript production, both in *scriptoria* and in urban workshops. 
 
+<br>
 
+<br>
 
 ## In my free time
 
