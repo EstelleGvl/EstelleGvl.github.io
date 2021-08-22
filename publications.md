@@ -9,7 +9,7 @@ title: Publications
 - ‘Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017.’ Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 - ‘Les souvenirs des Val-de-marnais collectés par les archives départementales.’Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
 
-
+<br>
 
 ### Conference presentations
 
