@@ -6,7 +6,7 @@ subtitle: Assistant Curator and Researcher
 
 I am a French Assistant Curator and Researcher, currently working at Louvre Abu Dhabi. 
 
-In 2016, I was hired by the France-Museums agency to help prepare the opening of the Louvre Abu Dhabi project. In July 2018, I joined the Louvre Abu Dhabi in the new “Research and Development” Department where I am helping to develop academic research in several fields, including research on medieval collections using digital methods.
+In 2016, I was hired by the France-Museums agency to help prepare the opening of the Louvre Abu Dhabi. In July 2018, I joined the museum in the new “Research and Development” Department where I am helping to develop academic research in several fields, including research on medieval collections using digital methods.
 
 <br>
 
@@ -48,11 +48,9 @@ Although my research has not really included any of these fields yet, they are b
 
 <br>
 
-<br>
-
 ## In my free time
 
-In my free time, I like to discover and experience as much as I can. I practice sports almost everyday, from boxing and running, to weights and squash. 
+I like to discover and experience as much as I can. I practice sports almost everyday, from boxing and running, to weights and squash. 
 
 I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey) and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
 
