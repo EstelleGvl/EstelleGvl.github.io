@@ -52,7 +52,7 @@ Although my research has not really included any of these fields yet, they are b
 
 I like to discover and experience as much as I can. I practice sports almost everyday, from boxing and running, to weights and squash. 
 
-I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey) and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
+I love to solo-travel (incidentally, often in non-English speaking countries which usually makes it an interesting journey full of discovery and cultural exchange) and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous; i.e. dislocating my shoulder at 16m underwater) activity.
 
-Outside of museums and libraries, I am also a creator of non-award winning board-games, a desert and off-road driver and more often than not, my friends' outdoor activity-organizer.
+Outside of museums and libraries, I am also a creator of non-award winning board-games, a desert and off-road driver and more often than I care to admit, my friends' outdoor activity-organizer.
 
