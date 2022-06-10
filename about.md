@@ -10,15 +10,15 @@ subtitle: Assistant Curator and Researcher
 
 I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to present to our team the *Winter Institute in Digital Humanities*, which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
 
-Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS). 
+Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS).
 
 <br>
 
 **Medieval Manuscripts**
 
-My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, as well as questions of attribution and copy. 
+My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, as well as questions of attribution and copy.
 
-My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I have published part of the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts. 
+My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I have published part of the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts.
 
 My main research projects so far have been focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices ("Paris Bible Project"), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns  in corpora of similar manuscripts ("Deep Illumination").
 
@@ -38,13 +38,13 @@ I am also developing a spatial humanities project titled "Mapping Pilgrimages Ro
 
 **Gender and Economic Studies**
 
-Although my research has not included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include them in the future. I am particularly interested in questions of women as authors and/or copyists, and the economy of manuscript production, both in *scriptoria* and in urban workshops. 
+Although my research has not included any of these fields yet, they are both of huge interest to me. Drawing on my personal history as a woman from a rural working-class family, I aim to include them in the future. I am particularly interested in questions of women as authors and/or copyists, and the economy of manuscript production, both in *scriptoria* and in urban workshops.
 
 <br>
 
 ## In my free time
 
-I like to discover and experience as much as I can. I practice sports almost every day, from boxing and running, to weights and squash. 
+I like to discover and experience as much as I can. I practice sports almost every day, from boxing and running, to weights and squash.
 
 I love to solo-travel and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
 
