@@ -5,22 +5,21 @@ title: Publications
 
 ## Peer-reviewed articles 
 
-- *Forthcoming:* "Creating New Audiences for Digital Objects Through Museum-University Collaboration." Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
+- *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Christofer Meinecke, Estelle Guéville, David Joseph Wrisley, and Stefan Jänicke.
+- *Forthcoming:* “De l’usage des Bibles de grand format au XIe siècle. Le manuscrit BnF Latin 94.” Guéville, Estelle. *Annales du Midi,* France.
+- "Creating New Audiences for Digital Objects Through Museum-University Collaboration." Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 - "Les souvenirs des Val-de-marnais collectés par les archives départementales." Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
 
 <br>
 
-## Articles under review
 
-- “Concorde‌ ‌et‌ ‌discorde‌ ‌dans‌ ‌l’iconographie‌ ‌médiévale‌. L’exemple‌ ‌du‌ ‌manuscrit‌ ‌BnF‌ ‌latin‌ ‌94‌.”Guéville, Estelle. Submitted to *Revue d'histoire de l'Église de France*. 
-- “De l’usage des Bibles de grand format au XIe siècle. Le manuscrit BnF Latin 94.” Guéville, Estelle. Submitted to *Annales du Midi.*
-
-<br>
 
 ## Conference presentations
 
-- *Upcoming:* Guéville, Estelle, and Wrisley, David Joseph. (2021). “Assembling Legacy Data for AI: the Case of the Paris Bible Project”. *FF21 Fantastic Futures, 3rd International Conference on Artificial Intelligence for Libraries, Archives and Museums*. Bibliothèque nationale de France. Paris, France. 9 December, 2021.
+- *Upcoming:* Guéville, Estelle, and Wrisley, David Joseph. (2022). “From Localization to Chronological and Geographical Prediction”. *International Medieval Congress (IMC 2022)*, Institute for Medieval Studies at the University of Leeds. July 2022.
+- Bourguignon, Elsa, and Guéville, Estelle (2022). “Research in a Museum: from Curatorial Research to Scientific Analysis”. *Research and Innovation in Arts and Culture*. University of the United Arab Emirates and Louvre Abu Dhabi. 2 February 2022.
+- Guéville, Estelle, and Wrisley, David Joseph. (2021). “Assembling Legacy Data for AI: the Case of the Paris Bible Project”. *FF21 Fantastic Futures, 3rd International Conference on Artificial Intelligence for Libraries, Archives and Museums*. Bibliothèque nationale de France. Paris, France. 9 December, 2021.
 - Guéville, Estelle. (2021). “Research Image Data Management”. *WIDH@ICA2021: An introduction to Digital Humanities*, International Council on Archives (ICA 2021). 15 November 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles”. *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*, Centre for Medieval Studies, University of Bristol. 16 September 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Variance in Uniformity: On the Automatic Transcription of Parisian Bibles”. *International Medieval Congress (IMC 2021)*, Institute for Medieval Studies at the University of Leeds. 6 July 2021.
