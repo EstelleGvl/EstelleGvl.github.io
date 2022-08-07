@@ -5,6 +5,7 @@ title: Publications
 
 ## Peer-reviewed articles 
 
+- *Forthcoming:* “Transcribing Medieval Manuscripts for Machine Learning." Estelle Guéville, David Joseph Wrisley.
 - *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Christofer Meinecke, Estelle Guéville, David Joseph Wrisley, and Stefan Jänicke.
 - *Forthcoming:* “De l’usage des Bibles de grand format au XIe siècle. Le manuscrit BnF Latin 94.” Guéville, Estelle. *Annales du Midi,* France.
 - "Creating New Audiences for Digital Objects Through Museum-University Collaboration." Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.

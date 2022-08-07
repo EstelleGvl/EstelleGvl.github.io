@@ -44,7 +44,7 @@ Although my research has not included any of these fields yet, they are both of 
 
 ## In my free time
 
-I like to discover and experience as much as I can. I practice sports almost every day, from boxing and running, to weights and squash.
+I like to discover and experience as much as I can. I practice sports almost every day, from boxing and running, to weights and HEMA.
 
 I love to solo-travel and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
 
