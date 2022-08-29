@@ -17,7 +17,7 @@ navbar-links:
   About me: "about"
   PhD:
 #    - My Journey at Yale: "journey"
-#    - My Thesis: "thesis"
+    - My Thesis: "thesis"
   Research Projects:
     - The Paris Bible Project: "parisbible"
     - Deep Illumination: "deepillumination"
