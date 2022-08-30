@@ -18,7 +18,7 @@ Today, I tend to use digital methods and computational analysis to broaden the r
 
 My research interests include primarily the qualitative and quantitative study of manuscripts, from a textual, codicological and visual point of view, as well as questions of attribution and copy.
 
-My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I published part of the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts.
+My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I published the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts.
 
 My main research projects so far have been focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices ("Paris Bible Project"), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns  in corpora of similar manuscripts ("Deep Illumination").
 
