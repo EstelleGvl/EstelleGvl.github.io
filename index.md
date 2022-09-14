@@ -4,7 +4,7 @@ title: Estelle Guéville
 subtitle: Assistant Curator and Researcher
 ---
 
-I am a French Assistant Curator and Researcher. I am starting my PhD journey in Medieval Studies at Yale and was previously  working for several cultural institutions.
+I am a French Assistant Curator and Researcher. I am starting my PhD journey in Medieval Studies at Yale and was previously working for several cultural institutions.
 
 After an education in History, Art History and Archaeology at University Paris 1 Panthéon Sorbonne, I worked at the National Library of France in the medieval manuscripts department, at the National Museum of Middle Ages in Paris, at the Air and Space museum, in archives and the private sector.
 
