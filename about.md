@@ -8,7 +8,7 @@ subtitle: Assistant Curator and Researcher
 
 **Digital Humanities**
 
-I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to present the *Winter Institute in Digital Humanities*, which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
+I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to present the [*Winter Institute in Digital Humanities*](https://wp.nyu.edu/widh/), which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
 
 Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS).
 
@@ -20,7 +20,7 @@ My research interests include primarily the qualitative and quantitative study o
 
 My master's thesis was a monograph study of a single manuscript held in the collection of the Bibliothèque nationale de France. Recently, I published the collection of medieval manuscripts from the Louvre Abu Dhabi collection and I participated in the acquisition of several new manuscripts.
 
-My main research projects so far have been focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices ("Paris Bible Project"), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns in corpora of similar manuscripts ("Deep Illumination").
+My main research projects so far have focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices (["Paris Bible Project"](https://parisbible.github.io/)), or the illuminations, either from a conservation and technical perspective ("Understanding Medieval Manuscripts Gilding Techniques") or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns in corpora of similar manuscripts ("Deep Illumination").
 
 <br>
 
