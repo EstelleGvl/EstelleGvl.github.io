@@ -10,7 +10,7 @@ After an education in History, Art History and Archaeology at University Paris 1
 
 In 2016, I was hired by the France-Museums agency to help prepare the opening of a new world-class museum in the Gulf: the Louvre Abu Dhabi. In July 2018, I joined the new “Research and Development” Department at Louvre Abu Dhabi where I was, amongst other responsibilities, developing academic research in several fields, including research on medieval collections using digital methods.
 
-In 2022, I am moving to Yale University as a PhD student in Medieval Studies where I will be working on a new methodology to identify medieval female scribes.
+In 2022, I am moving to Yale University as a [PhD student](https://medieval.yale.edu/people/estelle-gu-ville) in Medieval Studies where I will be working on a new methodology to identify medieval female scribes.
 
 
 
