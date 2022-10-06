@@ -9,4 +9,4 @@ The project wishes to challenge the idea of uniformity of Paris Bibles, a standa
 
 A project in collaboration with Dr. David Wrisley, New-York University Abu Dhabi.
 
-More information [here] B(https://parisbible.github.io/).
+More information [here](https://parisbible.github.io/).
