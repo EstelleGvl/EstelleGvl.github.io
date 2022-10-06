@@ -14,8 +14,6 @@ title: Publications
 
 <br>
 
-
-
 ## Conference presentations
 
 - **Upcoming:** (Sessions organiser) Guéville, Estelle, and Perry, Megan. (2023). "Birthing in Mind and Memory. I/II." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
