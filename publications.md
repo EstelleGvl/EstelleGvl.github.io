@@ -7,7 +7,6 @@ title: Publications
 
 - *Forthcoming:* “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
-- *Forthcoming:* “De l’usage des Bibles de grand format au XIe siècle. Le manuscrit BnF Latin 94.” Guéville, Estelle. *Annales du Midi,* France.
 - ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 - "Les souvenirs des Val-de-marnais collectés par les archives départementales." Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
@@ -17,7 +16,7 @@ title: Publications
 ## Conference presentations
 ### 2023
 
-- **Upcoming:** (Sessions organiser) Guéville, Estelle, Meinecke, Christofer, Wrisley, David Joseph, and Jänicke, Stefan. (2023). "Correcting Descriptive Drift: Regularizing and Extending Descriptive Vocabularies for Historical Image Collections Using Semi-Supervised Machine learning." *DH23*, The Alliance of Digital Humanities Organizations (ADHO). July 2023.
+- **Upcoming:** Guéville, Estelle, Meinecke, Christofer, Wrisley, David Joseph, and Jänicke, Stefan. (2023). "Correcting Descriptive Drift: Regularizing and Extending Descriptive Vocabularies for Historical Image Collections Using Semi-Supervised Machine learning." *DH23*, The Alliance of Digital Humanities Organizations (ADHO). July 2023.
 - **Upcoming:**  Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
 - **Upcoming:** (Sessions organiser) Guéville, Estelle, and Perry, Megan. (2023). "Birthing in Mind and Memory. I/II." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
 - **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
