@@ -8,7 +8,7 @@ subtitle: Assistant Curator and Researcher
 
 **Digital Humanities**
 
-I met by chance Dr. David Joseph Wrisley in 2019. He came to Louvre Abu Dhabi to present the [*Winter Institute in Digital Humanities*](https://wp.nyu.edu/widh/), which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
+I met by chance Dr. David Joseph Wrisley in 2019. He came to the Louvre Abu Dhabi to present the [*Winter Institute in Digital Humanities*](https://wp.nyu.edu/widh/), which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
 
 Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS).
 
@@ -44,8 +44,8 @@ Although my research has not included any of these fields yet, they are both of 
 
 ## In my free time
 
-I like to discover and experience as much as I can. I practice sports almost daily, from boxing and running to weights and HEMA.
+I like to discover and experience as much as I can. I practice sports almost daily, from boxing and running to weights and rugby.
 
-I love to solo travel and go hiking, horse-riding, diving, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
+I love to solo travel and go hiking, horse-riding, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
 
-Outside of museums and libraries, I am also a creator of non-award-winning board games, a desert and off-road driver, and my friends' outdoor activity organizer.
+Outside of museums and libraries, I am also a creator of non-award-winning board games, a diver, a desert and off-road driver, and my friends' outdoor activity organizer.
