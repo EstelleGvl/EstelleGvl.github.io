@@ -15,6 +15,10 @@ author: Estelle Guéville
 
 navbar-links:
   About me: "about"
+#  Consulting: "consulting"
+#    - Website for Graduate Students: "website"
+#    - CV design: "cv"
+#    - 
   PhD:
 #    - My Journey at Yale: "journey"
     - My Thesis: "thesis"
@@ -25,7 +29,7 @@ navbar-links:
     - Understanding Medieval Manuscripts Gilding Techniques: "gildingtechniques"
 #    - Mapping pilgrimages roads: ""
   Publications: "publications"
-  CV: "https://drive.google.com/file/d/1pc4-JiU8n0gZlEyvBIAWp1xdw8qKp60D/view?usp=share_link"
+  CV: "https://drive.google.com/file/d/1DM1MvdJCdQ53FcnjmgQZIWTNxdbpek5I/view?usp=sharing"
 #  Blog: "/blog"
 
 

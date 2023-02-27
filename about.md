@@ -45,7 +45,8 @@ Although my research has not included any of these fields yet, they are both of 
 ## In my free time
 
 I like to discover and experience as much as I can. I practice sports almost daily, from boxing and running to weights and rugby.
+I am one of the co-captains of Yale's Graduate Rugby Team and it has been a wonderful experience to train and lead to victory these amazing people!
 
-I love to solo travel and go hiking, horse-riding, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
+I also love to solo travel and go hiking, horse-riding, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
 
 Outside of museums and libraries, I am also a creator of non-award-winning board games, a diver, a desert and off-road driver, and my friends' outdoor activity organizer.
