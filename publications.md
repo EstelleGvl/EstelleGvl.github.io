@@ -3,8 +3,10 @@ layout: page
 title: Publications
 ---
 
-## Peer-reviewed articles
+## Publications
 
+- Forthcoming: “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
+Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
 - *Forthcoming:* “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
 - ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
@@ -16,8 +18,8 @@ title: Publications
 ## Conference presentations
 ### 2023
 
-- **Upcoming:** Guéville, Estelle, Meinecke, Christofer, Wrisley, David Joseph, and Jänicke, Stefan. (2023). "Correcting Descriptive Drift: Regularizing and Extending Descriptive Vocabularies for Historical Image Collections Using Semi-Supervised Machine learning." *DH23*, The Alliance of Digital Humanities Organizations (ADHO). July 2023.
 - **Upcoming:**  Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
+- **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). “Crowd Post-Correction of HTR Output in a Pedagogical Context: The Case of the Paris Bible Project Challenge.” *DH Benelux Conference 2023*. June 2023.
 - **Upcoming:** (Sessions organiser) Guéville, Estelle, and Perry, Megan. (2023). "Birthing in Mind and Memory. I/II." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
 - **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
 - **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). "Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex." *European Society of Textual Scholarship 2023 Conference*, The European Society for Textual Scholarship. April 2023.
