@@ -4,13 +4,17 @@ title: Publications
 ---
 
 ## Publications
-
-- Forthcoming: “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
+### Peer-reviewed articles
+- *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
+Guéville, Estelle, and Wrisley, David Joseph. 2023. Journal of the Early Book Society.
+- *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
-- *Forthcoming:* “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
-- ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
+- “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
+
+### Editorially-reviewed articles
+- ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
 - "Les souvenirs des Val-de-marnais collectés par les archives départementales." Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
 
 <br>
@@ -19,10 +23,9 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ### 2023
 
 - **Upcoming:**  Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
-- **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). “Crowd Post-Correction of HTR Output in a Pedagogical Context: The Case of the Paris Bible Project Challenge.” *DH Benelux Conference 2023*. June 2023.
-- **Upcoming:** (Sessions organiser) Guéville, Estelle, and Perry, Megan. (2023). "Birthing in Mind and Memory. I/II." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
-- **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
-- **Upcoming:** Guéville, Estelle, and Wrisley, David Joseph. (2023). "Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex." *European Society of Textual Scholarship 2023 Conference*, The European Society for Textual Scholarship. April 2023.
+- Guéville, Estelle, and Wrisley, David Joseph. (2023). “Crowd Post-Correction of HTR Output in a Pedagogical Context: The Case of the Paris Bible Project Challenge.” *DH Benelux Conference 2023*. June 2023.
+- Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
+- Guéville, Estelle, and Wrisley, David Joseph. (2023). "Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex." *European Society of Textual Scholarship 2023 Conference*, The European Society for Textual Scholarship. April 2023.
 
 ### 2022
 
@@ -43,3 +46,24 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 
 ### 2019
 - Daucé, Noëmi, Guéville, Estelle, Querin, Alice and Rochdy, Faten. (2019). “Digital archives: making Louvre Abu Dhabi collection available to everyone”. [*Digital Archiving in the Arab World*](https://www.bibalex.org/daiaw/en/Home/StaticPage.aspx?page=17e=17). Abu Dhabi. 27 October 2019.
+
+<br>
+
+## Invited talks
+
+### 2023
+- Guéville, Estelle (2023). “Working with AI-Created Transcriptions of Manuscripts: Introducing the Paris Bible Project.” *Yale Graduate Digital Humanities Colloquium*. 25 January 2023.
+
+### 2022
+- Bourguignon, Elsa, and Guéville, Estelle (2022). “Research in a Museum: from Curatorial Research to Scientific Analysis”. *Research and Innovation in Arts and Culture*. University of the United Arab Emirates and Louvre Abu Dhabi. 2 February 2022.
+
+### 2021
+- Guéville, Estelle. (2021). “Research Image Data Management”. *WIDH@ICA2021: An introduction to Digital Humanities, International Council on Archives* (ICA 2021). 15 November 2021.
+
+
+<br>
+
+## Roundtable Participations
+
+### 2023
+- *Upcoming:* Gengnagel, Tessa, Guéville, Estelle, Harr, James B., Malcolm, Aylin. (2023). “Podcasts, Blogs, And Video Essays: Digital Medieval Studies For The Masses? - A Round Table Discussion” *International Medieval Congress* (IMC 2023), Institute for Medieval Studies at the University of Leeds. July 2023.
