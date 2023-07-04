@@ -9,8 +9,6 @@ This is a test
 
 
 
-<meta charset="utf-8">
-<head>
 <style>
 
 body {
@@ -71,10 +69,9 @@ text {
 <script src="d3.min.js"></script>
 <script src='data.js'></script>
 <script src='darkviz.js'></script>
-</head>
-<body>
+
+
 <div class="container" id="dataviz">
 </div>
 <div class="container" id="hud">
 </div>
-</body>
