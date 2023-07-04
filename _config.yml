@@ -20,7 +20,7 @@ navbar-links:
 #    - CV design: "cv"
 #    - 
   PhD:
-#    - My Journey at Yale: "journey"
+    - My Journey at Yale: "journey"
     - My Thesis: "thesis"
   Research Projects:
     - The Paris Bible Project: "parisbible"
