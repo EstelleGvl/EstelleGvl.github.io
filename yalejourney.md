@@ -8,7 +8,7 @@ title: My Journey at Yale
 This is a test
 
 
-
+<body>
 <style>
 
 body {
@@ -75,3 +75,4 @@ text {
 </div>
 <div class="container" id="hud">
 </div>
+</body>
