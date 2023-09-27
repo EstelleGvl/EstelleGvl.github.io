@@ -14,7 +14,7 @@ author: Estelle Guéville
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "about"
+  About: "about"
 #  Consulting: "consulting"
 #    - Website for Graduate Students: "website"
 #    - CV design: "cv"
@@ -22,7 +22,7 @@ navbar-links:
   PhD:
     - My Journey at Yale: "yalejourney"
     - My Thesis: "thesis"
-  Research:
+  Research Projects:
     - The Paris Bible Project: "parisbible"
     - Deep Illumination: "deepillumination"
 #    - Imagegrammar: "imagegrammar"
