@@ -6,7 +6,7 @@ title: Publications
 ## Publications
 ### Peer-reviewed articles
 - *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
-Guéville, Estelle, and Wrisley, David Joseph. 2023. Journal of the Early Book Society.
+Guéville, Estelle, and Wrisley, David Joseph. Journal of the Early Book Society.
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
 - *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
@@ -22,7 +22,7 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ## Conference presentations
 ### 2023
 
-- **Upcoming:**  Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
+- Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). “Crowd Post-Correction of HTR Output in a Pedagogical Context: The Case of the Paris Bible Project Challenge.” *DH Benelux Conference 2023*. June 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). "Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex." *European Society of Textual Scholarship 2023 Conference*, The European Society for Textual Scholarship. April 2023.
@@ -52,6 +52,7 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ## Invited talks
 
 ### 2023
+- **Upcoming:** Guéville, Estelle (2023). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *Yale Medieval Lunch Colloquium*, 24 October 2023.
 - Guéville, Estelle (2023). “Working with AI-Created Transcriptions of Manuscripts: Introducing the Paris Bible Project.” *Yale Graduate Digital Humanities Colloquium*. 25 January 2023.
 
 ### 2022
