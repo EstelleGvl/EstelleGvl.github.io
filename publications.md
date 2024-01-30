@@ -3,12 +3,10 @@ layout: page
 title: Publications
 ---
 
-## Publications
-
-### Books
+## Books
 - (Under Contract) Wrisley, David J., and Guéville, Estelle. *Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.”* Arc Humanities Press.  
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 - *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
 Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
@@ -17,7 +15,7 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 - “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 
-### Editorially-reviewed articles
+## Editorially-reviewed articles
 - ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
 - "Les souvenirs des Val-de-marnais collectés par les archives départementales." Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
 
