@@ -34,7 +34,7 @@ navbar-links:
     - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"{:target="_blank"}
     - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"{:target="_blank"}
   Publications: "publications"
-  CV: "https://drive.google.com/file/d/1AaGjPx_sqXqZr4F62b99vFBajhilxpsg/view?usp=sharing"{:target="_blank"}
+  CV: "<a href='https://drive.google.com/file/d/1AaGjPx_sqXqZr4F62b99vFBajhilxpsg/view?usp=sharing' target='_blank'>CV</a>"
 #  Blog: "/blog"
 
 
