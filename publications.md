@@ -4,12 +4,16 @@ title: Publications
 ---
 
 ## Publications
+
+### Books
+- (Under Contract) Wrisley, David J., and Guéville, Estelle. Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.” *Arc Humanities Press.*  
+
 ### Peer-reviewed articles
 - *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
-Guéville, Estelle, and Wrisley, David Joseph. Journal of the Early Book Society.
+Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
-- *Forthcoming:* “A Visual Analytics Framework for Composing a Hierarchical Classification for Medieval Illuminations.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
+- *Forthcoming:* “Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
 - “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 
@@ -20,6 +24,10 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 <br>
 
 ## Conference presentations
+
+### 2024
+- Guéville, Estelle. (2024). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2024.
+
 ### 2023
 
 - Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
@@ -30,12 +38,10 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ### 2022
 
 - Guéville, Estelle, and Wrisley, David Joseph. (2022). “From Localization to Chronological and Geographical Prediction”. *International Medieval Congress (IMC 2022)*, Institute for Medieval Studies at the University of Leeds. July 2022.
-- Bourguignon, Elsa, and Guéville, Estelle (2022). “Research in a Museum: from Curatorial Research to Scientific Analysis”. *Research and Innovation in Arts and Culture*. University of the United Arab Emirates and Louvre Abu Dhabi. 2 February 2022.
 
 ### 2021
 
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Assembling Legacy Data for AI: the Case of the Paris Bible Project”. *FF21 Fantastic Futures, 3rd International Conference on Artificial Intelligence for Libraries, Archives and Museums*. Bibliothèque nationale de France. Paris, France. 9 December, 2021.
-- Guéville, Estelle. (2021). “Research Image Data Management”. *WIDH@ICA2021: An introduction to Digital Humanities*, International Council on Archives (ICA 2021). 15 November 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles”. *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*, Centre for Medieval Studies, University of Bristol. 16 September 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Variance in Uniformity: On the Automatic Transcription of Parisian Bibles”. *International Medieval Congress (IMC 2021)*, Institute for Medieval Studies at the University of Leeds. 6 July 2021.
 
@@ -52,7 +58,7 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ## Invited talks
 
 ### 2023
-- **Upcoming:** Guéville, Estelle (2023). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *Yale Medieval Lunch Colloquium*, 24 October 2023.
+- Guéville, Estelle (2023). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *Yale Medieval Lunch Colloquium*, 24 October 2023.
 - Guéville, Estelle (2023). “Working with AI-Created Transcriptions of Manuscripts: Introducing the Paris Bible Project.” *Yale Graduate Digital Humanities Colloquium*. 25 January 2023.
 
 ### 2022
