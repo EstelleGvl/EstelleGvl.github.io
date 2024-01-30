@@ -6,7 +6,7 @@ title: Publications
 ## Publications
 
 ### Books
-- (Under Contract) Wrisley, David J., and Guéville, Estelle. Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.” *Arc Humanities Press.*  
+- (Under Contract) Wrisley, David J., and Guéville, Estelle. *Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.”* Arc Humanities Press.  
 
 ### Peer-reviewed articles
 - *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
