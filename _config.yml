@@ -29,12 +29,12 @@ navbar-links:
     - Understanding Medieval Manuscripts Gilding Techniques: "gildingtechniques"
 #    - Mapping pilgrimages roads: ""
   DH Projects:
-    - The Paris Bible Project: "https://parisbible.github.io/"
+    - The Paris Bible Project: "https://parisbible.github.io/"{:target="_blank"}
     - Deep Illumination: "deepillumination"
-    - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"
-    - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"
+    - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"{:target="_blank"}
+    - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"{:target="_blank"}
   Publications: "publications"
-  CV: "https://drive.google.com/file/d/1AaGjPx_sqXqZr4F62b99vFBajhilxpsg/view?usp=sharing"
+  CV: "https://drive.google.com/file/d/1AaGjPx_sqXqZr4F62b99vFBajhilxpsg/view?usp=sharing"{:target="_blank"}
 #  Blog: "/blog"
 
 
