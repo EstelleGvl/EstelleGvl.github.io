@@ -31,8 +31,8 @@ navbar-links:
   DH Projects:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Deep Illumination: "deepillumination"
-    - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"{:target="_blank"}
-    - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"{:target="_blank"}
+    - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"
+    - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"
   Publications: "publications"
   CV: "<a href='https://drive.google.com/file/d/1AaGjPx_sqXqZr4F62b99vFBajhilxpsg/view?usp=sharing' target='_blank'>CV</a>"
 #  Blog: "/blog"
