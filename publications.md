@@ -11,7 +11,7 @@ title: Publications
 Guéville, Estelle, and Wrisley, David Joseph.
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
-- *Forthcoming:* “Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke.
+- “Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke. 2024.
 - “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 
