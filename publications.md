@@ -8,7 +8,7 @@ title: Publications
 
 ## Peer-reviewed articles
 - *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
-Guéville, Estelle, and Wrisley, David Joseph.
+Guéville, Estelle, and Wrisley, David Joseph. *Digital Studies in Language and Literature.*
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
 - “Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke. 2024.
@@ -24,7 +24,9 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ## Conference presentations
 
 ### 2024
+- Guéville, Estelle. (2024). “Manuscript Collections and Inclusivity: Making Premodern Female Scribes' Production Accessible.” *(Re)imag(in)ing the Past: Physical, Digital, and (Con)textual Analysis of Historical Manuscripts International Symposium*. Gjøvik, Norway, 4-6 December 2024.
 - Guéville, Estelle. (2024). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2024.
+- Wrisley, David Joseph, Guéville, Estelle, and Meinecke, Christofer (2024).“Understanding the Annotation Gap: Reflections on Labeling Decoration in Legacy Iconographic Databases.” *Marginalia from Pindar to Berberova*, Maison des Sciences de l’Homme et de l’Environnement, Université de Franche-Comté. 8 March 2024.
 
 ### 2023
 
