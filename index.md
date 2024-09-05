@@ -10,7 +10,7 @@ Before joining Yale, I worked for several cultural institutions in France and th
 
 <div style="display: flex; align-items: center;">
   <a href="/assets/img/LAD.jpg" data-lightbox="PBP" data-title="Louvre Abu Dhabi ©Beverly Galdamez">
-    <img src="/assets/img/LAD.jpg" title="Louvre Abu Dhabi ©Beverly Galdamez" style="width: 150px; margin-right: 10px;">
+    <img src="/assets/img/LAD.jpg" title="Louvre Abu Dhabi ©Beverly Galdamez" style="width: 2000px; margin-right: 100px;">
   </a>
 
 
