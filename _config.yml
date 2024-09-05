@@ -23,9 +23,8 @@ navbar-links:
     - My Journey at Yale: "yalejourney"
     - My Thesis: "thesis"
   Research Projects:
-    - The Paris Bible Project: "parisbible"
+    - The Paris Bible Project: "https://parisbible.github.io/"
     - Deep Illumination: "deepillumination"
-#    - Imagegrammar: "imagegrammar"
     - Understanding Medieval Manuscripts Gilding Techniques: "gildingtechniques"
 #    - Mapping pilgrimages roads: ""
   DH Projects:
@@ -34,7 +33,7 @@ navbar-links:
     - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"
     - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"
   Publications: "publications"
-  CV: "https://drive.google.com/file/d/1xa-qTBF1uXTA0m34V34FiMCvvihMk4XC/view?usp=sharing"
+  CV: "https://drive.google.com/file/d/1DFN4bJUglz3QVkja4TPL7Zi_ClXL9neC/view?usp=sharing"
 #  Blog: "/blog"
 
 
@@ -70,7 +69,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: estelle_gvl
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
