@@ -57,6 +57,10 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 
 ## Invited talks
 
+### 2024
+- Guéville, Estelle (2024). “Women in the Scriptorium: Female Manuscript Production in Pre-Modern Europe.” *Race, Gender, and Sexuality Studies Colloquium*, Yale University, 24 October 2023.
+
+
 ### 2023
 - Guéville, Estelle (2023). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *Yale Medieval Lunch Colloquium*, 24 October 2023.
 - Guéville, Estelle (2023). “Working with AI-Created Transcriptions of Manuscripts: Introducing the Paris Bible Project.” *Yale Graduate Digital Humanities Colloquium*. 25 January 2023.
