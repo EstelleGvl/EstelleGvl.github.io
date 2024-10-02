@@ -18,7 +18,7 @@ In 2016, I was hired by the France-Museums agency to help prepare the opening of
   
 </div>
 
-In 2022, I moved to Yale University as a <a href="https://medieval.yale.edu/people/estelle-gu-ville">PhD student</a> in Medieval Studies where I am working on medieval female scribes. I also co-created the Yale Graduate Digital Humanities Colloquium, a working group bringing together graduate students across disciplines to explore how digital tools can offer new possibilities in humanistic inquiry and serve in the Yale Lecture in Medieval Studies Committee as well as in the Post-Graduate Digital Medievalist Committee.
+In 2022, I moved to Yale University to pursue <a href="https://medieval.yale.edu/people/estelle-gu-ville">my PhD</a> in Medieval Studies where I am working on medieval female scribes. I also co-created the Yale Graduate Digital Humanities Colloquium, a working group bringing together graduate students across disciplines to explore how digital tools can offer new possibilities in humanistic inquiry and serve in the Yale Lecture in Medieval Studies Committee as well as in the Post-Graduate Digital Medievalist Committee.
 
 <a href="/assets/img/medievallunch.jpg" data-lightbox="PBP" data-title="Paris Bible Project ©Serena Strecker">
   <img src="/assets/img/medievallunch.jpg" title="Paris Bible Project ©Serena Strecker">
