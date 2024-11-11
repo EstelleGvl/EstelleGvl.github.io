@@ -23,24 +23,26 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 
 ## Conference presentations
 
+### 2025
+- Guéville, Estelle. (2025). “Multilingualism and Literacy Among Medieval Female Scribes.” *International Congress on Medieval Studies, Medieval Institute at Western Michigan University.* May 2025.
+- Guéville, Estelle. (2025). “Crossing Languages: Literacy and Multilingualism in Manuscripts Copied by Medieval Women.” *Marco Manuscript Workshop 2025, Border Crossing.* 31 January, 1 February 2025. 
+- Guéville, Estelle. (2025). “Female Agency and Manuscript Materiality: The Codicological Practices of Cistercian Women across Europe.” *International Conference Women of the Cistercian Order: Unveiling Nunneries and Expanding Horizons.* 29-31 January 2025.
+
 ### 2024
 - Guéville, Estelle. (2024). “Manuscript Collections and Inclusivity: Making Premodern Female Scribes' Production Accessible.” *(Re)imag(in)ing the Past: Physical, Digital, and (Con)textual Analysis of Historical Manuscripts International Symposium*. Gjøvik, Norway, 4-6 December 2024.
 - Guéville, Estelle. (2024). “Unknown Hands: Medieval and Early Modern Manuscripts and their Female Scribes.” *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2024.
 - Wrisley, David Joseph, Guéville, Estelle, and Meinecke, Christofer (2024).“Understanding the Annotation Gap: Reflections on Labeling Decoration in Legacy Iconographic Databases.” *Marginalia from Pindar to Berberova*, Maison des Sciences de l’Homme et de l’Environnement, Université de Franche-Comté. 8 March 2024.
 
 ### 2023
-
 - Guéville, Estelle. (2023). “Losing your Head. Representing the Dying Body in Medieval Manuscripts, the Example of Judith Beheading Holofernes.” *International Medieval Congress (IMC 2023)*, Institute for Medieval Studies at the University of Leeds. July 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). “Crowd Post-Correction of HTR Output in a Pedagogical Context: The Case of the Paris Bible Project Challenge.” *DH Benelux Conference 2023*. June 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). "Between Authorship, Translation and Scribal Practice : Using Digital Methods to Assess Complex Compilations in Codex." *International Congress on Medieval Studies*, Medieval Institute at Western Michigan University. May 2023.
 - Guéville, Estelle, and Wrisley, David Joseph. (2023). "Author, Translator, Scribe: Digital Approaches to the Compilation of the Medieval Codex." *European Society of Textual Scholarship 2023 Conference*, The European Society for Textual Scholarship. April 2023.
 
 ### 2022
-
 - Guéville, Estelle, and Wrisley, David Joseph. (2022). “From Localization to Chronological and Geographical Prediction”. *International Medieval Congress (IMC 2022)*, Institute for Medieval Studies at the University of Leeds. July 2022.
 
 ### 2021
-
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Assembling Legacy Data for AI: the Case of the Paris Bible Project”. *FF21 Fantastic Futures, 3rd International Conference on Artificial Intelligence for Libraries, Archives and Museums*. Bibliothèque nationale de France. Paris, France. 9 December, 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Combining Digital Fragments of Medieval Manuscripts for Creating Scribal Profiles”. *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*, Centre for Medieval Studies, University of Bristol. 16 September 2021.
 - Guéville, Estelle, and Wrisley, David Joseph. (2021). “Variance in Uniformity: On the Automatic Transcription of Parisian Bibles”. *International Medieval Congress (IMC 2021)*, Institute for Medieval Studies at the University of Leeds. 6 July 2021.
