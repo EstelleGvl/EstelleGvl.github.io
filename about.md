@@ -14,7 +14,7 @@ Today, I tend to use digital methods and computational analysis to broaden the r
 
 I have published several articles in renowned journals and my co-authored book (with Dr. David J. Wrisley), "Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible." is currently under contract with Arc Humanities Press.
 
-My dissertation, a recovery project to identify female scribes and their production, includes quantitative and qualitative analysis combinew with computational approaches.
+My dissertation, a recovery project to identify female scribes and their production, includes quantitative and qualitative analysis combined with computational approaches.
 
 <br>
 

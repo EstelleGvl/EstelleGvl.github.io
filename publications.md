@@ -7,10 +7,10 @@ title: Publications
 - (Under Contract) Wrisley, David J., and Guéville, Estelle. *Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.”* Arc Humanities Press.  
 
 ## Peer-reviewed articles
-- *Forthcoming:* “Between Authorship and Scribal Practice: Using Digital Methods to Identify Scribes in Manuscripts”
-Guéville, Estelle, and Wrisley, David Joseph. *Digital Studies in Language and Literature.*
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
+- “Everyone Leaves a Trace: Exploring Transcriptions of  Medieval Manuscripts with Computational Methods.”
+Guéville, Estelle, and Wrisley, David Joseph. *Digital Studies in Language and Literature.* 2024.
 - “Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.” Meinecke, Christofer, Guéville, Estelle, Wrisley, David Joseph, and Stefan Jänicke. 2024.
 - “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
 - "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
@@ -24,9 +24,11 @@ Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conferen
 ## Conference presentations
 
 ### 2025
-- Guéville, Estelle. (2025). “Multilingualism and Literacy Among Medieval Female Scribes.” *International Congress on Medieval Studies, Medieval Institute at Western Michigan University.* May 2025.
-- Guéville, Estelle. (2025). “Crossing Languages: Literacy and Multilingualism in Manuscripts Copied by Medieval Women.” *Marco Manuscript Workshop 2025, Border Crossing.* 31 January, 1 February 2025. 
-- Guéville, Estelle. (2025). “Female Agency and Manuscript Materiality: The Codicological Practices of Cistercian Women across Europe.” *International Conference Women of the Cistercian Order: Unveiling Nunneries and Expanding Horizons.* 29-31 January 2025.
+- Upcoming: Meinecke, Christofer, Guéville, Estelle and Wrisley, David J. (2025). "Exploring the “Great Unseen” in Medieval Manuscripts: Instance-Level Labeling of Legacy Image Collections with Zero-Shot Models." DH 2025. Lisbon. 14-18 July 2025.
+- Upcoming: Guéville, Estelle. (2025). “Multilingualism and Literacy Among Medieval Female Scribes.” *International Congress on Medieval Studies, Medieval Institute at Western Michigan University.* May 2025.
+- Upcoming: Guéville, Estelle. (2025). “Unknown Hands: Addressing the Scribal Gender Gap in Manuscript Studies.” *Harvard-Yale-Brown - Graduate Conference in Book History.* 5 May 2025.
+- Guéville, Estelle. (2025). “Crossing Languages: Literacy and Multilingualism in Manuscripts Copied by Medieval Women.” *Marco Manuscript Workshop 2025, Border Crossing.* 31 January, 1 February 2025. *Participation cancelled due to a family emergency.*
+- Guéville, Estelle. (2025). “Female Agency and Manuscript Materiality: The Codicological Practices of Cistercian Women across Europe.” *International Conference Women of the Cistercian Order: Unveiling Nunneries and Expanding Horizons.* 29-31 January 2025. *Participation cancelled due to a family emergency.*
 
 ### 2024
 - Guéville, Estelle. (2024). “Manuscript Collections and Inclusivity: Making Premodern Female Scribes' Production Accessible.” *(Re)imag(in)ing the Past: Physical, Digital, and (Con)textual Analysis of Historical Manuscripts International Symposium*. Gjøvik, Norway, 4-6 December 2024.
