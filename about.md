@@ -12,7 +12,7 @@ I met by chance Dr. David Joseph Wrisley in 2019. He came to the Louvre Abu Dhab
 
 Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS).
 
-I have published several articles in renowned journals and my co-authored book (with Dr. David J. Wrisley), "Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible." is currently under contract with Arc Humanities Press.
+I have published several articles in renowned journals and my co-authored book (with Dr. David J. Wrisley), "Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible" is currently under contract with Arc Humanities Press.
 
 My dissertation, a recovery project to identify female scribes and their production, includes quantitative and qualitative analysis combined with computational approaches.
 
