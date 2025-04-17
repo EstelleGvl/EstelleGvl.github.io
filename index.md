@@ -4,7 +4,7 @@ title: Estelle Guéville
 subtitle: Curator and Researcher
 ---
 
-I am a French Curator and Researcher and I am currently a PhD student in Medieval Studies at Yale. I also hold B.A.s in History and Art History and M.A.s in History and the Management of Cultural Heritage from Université Paris 1 Panthéon Sorbonne.
+I am a French Curator and Researcher and I am currently a PhD candidate in Medieval Studies at Yale. I also hold B.A.s in History and Art History and M.A.s in History and the Management of Cultural Heritage from Université Paris 1 Panthéon Sorbonne.
 
 Before joining Yale, I worked for several cultural institutions in France and the Gulf, including the Louvre Abu Dhabi, the Bibliothèque nationale de France  in the medieval manuscripts department, the Musée national du Moyen Age - Thermes de Cluny in Paris, the Air and Space museum in le Bourget, in archives and the private sector.
 
