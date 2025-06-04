@@ -25,8 +25,9 @@ Guéville, Estelle, and Wrisley, David Joseph. *Digital Studies in Language and 
 
 ### 2025
 - Upcoming: Meinecke, Christofer, Guéville, Estelle and Wrisley, David J. (2025). "Exploring the “Great Unseen” in Medieval Manuscripts: Instance-Level Labeling of Legacy Image Collections with Zero-Shot Models." DH 2025. Lisbon. 14-18 July 2025.
-- Upcoming: Guéville, Estelle. (2025). “Multilingualism and Literacy Among Medieval Female Scribes.” *International Congress on Medieval Studies, Medieval Institute at Western Michigan University.* May 2025.
-- Upcoming: Guéville, Estelle. (2025). “Unknown Hands: Addressing the Scribal Gender Gap in Manuscript Studies.” *Harvard-Yale-Brown - Graduate Conference in Book History.* 5 May 2025.
+- Upcoming: Guéville, Estelle and Wrisley, David J. (2025). "Co-Authorship, Collaboration and Community in Medieval Studies (1930-2025): Insights from the Science of Science." Association for Computers and the Humanities (ACH) 2025. 11-13 June 2025. 
+- Guéville, Estelle. (2025). “Multilingualism and Literacy Among Medieval Female Scribes.” *International Congress on Medieval Studies, Medieval Institute at Western Michigan University.* May 2025.
+- Guéville, Estelle. (2025). “Unknown Hands: Addressing the Scribal Gender Gap in Manuscript Studies.” *Harvard-Yale-Brown - Graduate Conference in Book History.* 5 May 2025.
 - Guéville, Estelle. (2025). “Crossing Languages: Literacy and Multilingualism in Manuscripts Copied by Medieval Women.” *Marco Manuscript Workshop 2025, Border Crossing.* 31 January, 1 February 2025. *Participation cancelled due to a family emergency.*
 - Guéville, Estelle. (2025). “Female Agency and Manuscript Materiality: The Codicological Practices of Cistercian Women across Europe.” *International Conference Women of the Cistercian Order: Unveiling Nunneries and Expanding Horizons.* 29-31 January 2025. *Participation cancelled due to a family emergency.*
 
@@ -60,6 +61,9 @@ Guéville, Estelle, and Wrisley, David Joseph. *Digital Studies in Language and 
 <br>
 
 ## Invited talks
+
+### 2025
+- Guéville, Estelle (2025). “Unknown Hands. The Scribal Gender Gap and Historical Exclusion.” Yale Medieval Lunch Colloquium, Yale University, 18 February 2025.
 
 ### 2024
 - Guéville, Estelle (2024). “Women in the Scriptorium: Female Manuscript Production in Pre-Modern Europe.” *Race, Gender, and Sexuality Studies Colloquium*, Yale University, 24 October 2023.
