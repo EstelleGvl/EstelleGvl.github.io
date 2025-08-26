@@ -4,7 +4,7 @@ title: Contact
 subtitle: 
 ---
 
-{% include parallax.html src="/assets/img/pizan.jpg" title="Christine of Pizan" %}
+{% include parallax.html src="/assets/img/pizan.jpg" %}
 
 
 <p style="text-align:center;">Thanks for your visit!</p>
