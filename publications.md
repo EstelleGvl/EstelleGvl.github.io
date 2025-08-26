@@ -13,7 +13,8 @@ title: Publications
     <h2><i>Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.”</i></h2>
     <h3>Arc Humanities Press, 2025.</h3>
     <p class="pub-abstract">
-        XXX    </p>
+        <h4>This book explores the intersection of medieval manuscripts and machine learning. Working with the genre of the “Paris Bible”, thousands of which were created in Europe in the thirteenth and fourteenth centuries, we discuss how using new technologies for the automatic transcription from manuscripts can create a corpus for scholarly study. Using computational methods to explore such a corpus of transcriptions, we tap into a layer of scribal data heretofore unmanageable for scholars. With this methodology, we argue that it is possible to rethink concepts such as localization and dating and to reframe the production and diffusion of Paris Bibles in wider contexts. Furthermore, this study aims to model how a future of digital medieval studies can adapt the ways we have traditionally carried out research and propose interpretations based on new kinds of results.</h4>
+    </p>
   </div>
 </section>
 
