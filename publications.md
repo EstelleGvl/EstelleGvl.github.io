@@ -27,8 +27,7 @@ title: Publications
 
   <!-- Publication 1 -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/medievallunch.jpg"
-         alt="Everyone Leaves a Trace" loading="lazy">
+    <img src="/assets/img/medievallunch.jpg" alt="Test">
     <div class="pub-body">
       <h2>Everyone Leaves a Trace: Exploring Transcriptions of  Medieval Manuscripts with Computational Methods.</h2>
       <h3>*Digital Studies in Language and Literature.* 2024.</h3>
@@ -57,12 +56,44 @@ title: Publications
     </div>
   </section>
 
-  <!-- Duplicate section blocks for more publications -->
+
+  <!-- Publication 3 -->
+  <section class="pub-card">
+    <img class="pub-img" src="/assets/img/medievallunch.jpg"
+         alt="Transcribing Medieval Manuscripts for Machine Learning." loading="lazy">
+    <div class="pub-body">
+      <h2>Transcribing Medieval Manuscripts for Machine Learning.</h2>
+      <h3>*Jounal of Data Mining and Digital Humanities*. 2024.</h3>
+      <p class="pub-abstract">
+            This article focuses on the transcription of medieval manuscripts. Whereas problems of transcription have long interested medievalists, few workable options in the era of printed editions were available besides normalisation. The automation of this process, known as handwritten text recognition (HTR), has made new kinds of digital text creation possible, but also has foregrounded the necessity of theorising transcription in our scholarly practices. We reflect here on different notions of transcription against the backdrop of changing text technologies. Moreover, drawing on our own research on medieval Latin Bibles, we present general guidelines for customizing transcription schemes, arguing that they must be designed with specific research questions and scholarly end use in mind. Since we are particularly interested in the scribal contribution to the production of codices, our transcription guidelines aim to capture abbreviations and orthographic variation between different textual witnesses for downstream machine learning tasks. In the final section of the article, we discuss a few examples of how the HTR-created transcriptions allow us to address new questions at scale in medieval manuscripts, such as textual variance across witnesses, the prediction of a change in scribal hands within a single manuscript as well as the profiling of individual and regional scribal characteristics.
+      </p>
+      <p class="pub-links">
+        <a class="btn btn-primary" href="https://jdmdh.episciences.org/11090" target="_blank" rel="noopener">Read →</a>
+      </p>
+    </div>
+  </section>
+
+
+  <!-- Publication 4 -->
+  <section class="pub-card">
+    <img class="pub-img" src="/assets/img/medievallunch.jpg"
+         alt="Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." loading="lazy">
+    <div class="pub-body">
+      <h2>Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017.</h2>
+      <h3>*Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.</h3>
+      <p class="pub-abstract">
+            Between 2009 ‒ the year of the first acquisition ‒ and 2017, the year the museum opened to the public, the Louvre Abu Dhabi acquired twenty-one manuscripts or manuscript leaves. Among them are six western medieval manuscripts, representative of the religious, courteous, literary and scientific culture of the end of the Middle Ages, instruments of the dissemination of knowledge and faith. These objects having been previously kept in private hand and some of them being new or little known, this paper aims to make them accessible to the scientific community by presenting for each of them the codicological elements, the content, the decoration, their history as well as bibliographic references.
+     </p>
+      <p class="pub-links">
+        <a class="btn btn-primary" href="https://www.brepolsonline.net/doi/abs/10.1484/J.PECIA.5.123973?journalCode=pecia" target="_blank" rel="noopener">Read →</a>
+      </p>
+    </div>
+  </section>
+
+
 </div>
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
-- “Transcribing Medieval Manuscripts for Machine Learning." *Jounal of Data Mining and Digital Humanities*. Guéville, Estelle, and Wrisley, David Joseph. 2023.
-- "Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." Estelle Guéville. 2021. *Le manuscrit médiéval: texte, objet et outil de transmission. Volume I.* Brepols: Pecia. Le livre et l’écrit. N°22. P. 105-153.
 
 ## Editorially-reviewed articles
 - ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
