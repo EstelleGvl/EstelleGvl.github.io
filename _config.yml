@@ -14,14 +14,15 @@ author: Estelle Guéville
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  About: 
+    - My Research Interests: "about"
+    - My Career in Museums: "museums"
+    - My PhD: "thesis"
+
 #  Consulting: "consulting"
 #    - Website for Graduate Students: "website"
 #    - CV design: "cv"
-#    - 
-  PhD:
-#   - My Journey at Yale: "yalejourney"
-    - My Thesis: "thesis"
+
   Research:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Medieval Distant Viewing: "medievaldistantviewing"
