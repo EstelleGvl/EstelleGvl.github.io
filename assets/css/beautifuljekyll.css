@@ -1190,3 +1190,17 @@ h1, h2 {
 .parallax::after {
   background: rgba(0,0,0,0.4);
 }
+
+.parallax {
+  margin-bottom: 0;   /* no gap after parallax */
+}
+
+footer {
+  margin-top: 0;      /* no gap before footer */
+}
+
+.parallax h1,
+.parallax h2,
+.parallax p {
+  margin-bottom: 0;
+}
