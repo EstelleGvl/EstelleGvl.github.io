@@ -6,8 +6,8 @@ subtitle:
 
 {% include parallax.html src="/assets/img/pizan.jpg" title="Christine of Pizan"%}
 
-Thanks for your visit!
 
+<p style="text-align:center;">Thanks for your visit!</p>
 
 <section class="contact-card">
   <h2>Contact me</h2>
