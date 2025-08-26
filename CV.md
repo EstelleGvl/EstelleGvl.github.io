@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: <i>Curriculum Vitae</i>
 subtitle: 
 ---
 
