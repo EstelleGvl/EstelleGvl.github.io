@@ -1,0 +1,8 @@
+<div class="parallax"
+     style="--bg: url('{{ include.src | relative_url }}'); min-height: {{ include.height | default: '420px' }};">
+  <div class="parallax-content">
+    {% if include.title %}<h2>{{ include.title }}</h2>{% endif %}
+    {% if include.text %}<p>{{ include.text }}</p>{% endif %}
+    {% if include.content %}{{ include.content }}{% endif %}
+  </div>
+</div>

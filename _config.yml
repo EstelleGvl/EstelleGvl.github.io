@@ -23,7 +23,7 @@ navbar-links:
 #    - Website for Graduate Students: "website"
 #    - CV design: "cv"
 
-  Research:
+  My Research:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Medieval Distant Viewing: "medievaldistantviewing"
     - Understanding Medieval Manuscripts Gilding Techniques: "gildingtechniques"
@@ -38,6 +38,7 @@ navbar-links:
     - Conferences: "Conferences"
 
   CV: "CV"
+  Contact: "contact"
 #  Blog: "/blog"
 
 
