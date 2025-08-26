@@ -38,8 +38,7 @@ title: Publications
 
   <!-- Publication 2 -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/DSH2024.jpg"
-         alt="Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024" loading="lazy">
+    <img class="pub-img" src="/assets/img/DSH2024.jpg" alt="Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024" loading="lazy">
     <div class="pub-body">
       <h2>Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.</h2>
       <h3>Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024, Pages 638–656</h3>
@@ -55,8 +54,7 @@ title: Publications
 
   <!-- Publication 3 -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/JDMDH.jpg"
-         alt="Jounal of Data Mining and Digital Humanities, 2024." loading="lazy">
+    <img class="pub-img" src="/assets/img/JDMDH.jpg" alt="Jounal of Data Mining and Digital Humanities, 2024." loading="lazy">
     <div class="pub-body">
       <h2>Transcribing Medieval Manuscripts for Machine Learning.</h2>
       <h3>Jounal of Data Mining and Digital Humanities, 2024.</h3>
@@ -72,8 +70,7 @@ title: Publications
 
   <!-- Publication 4 -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/pecia.jpg"
-         alt="Le manuscrit médiéval: texte, objet et outil de transmission. Volume I. Brepols: Pecia. Le livre et l’écrit. N°22." loading="lazy">
+    <img class="pub-img" src="/assets/img/pecia.jpg" alt="Le manuscrit médiéval: texte, objet et outil de transmission. Volume I. Brepols: Pecia. Le livre et l’écrit. N°22." loading="lazy">
     <div class="pub-body">
       <h2>Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017.</h2>
       <h3>Le manuscrit médiéval: texte, objet et outil de transmission. Volume I. Brepols: Pecia. Le livre et l’écrit. N°22, p. 105-153.</h3>
@@ -90,8 +87,7 @@ title: Publications
   
 <!-- Publication X -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/pecia.jpg"
-         alt="Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021." loading="lazy">
+    <img class="pub-img" src="/assets/img/pecia.jpg" alt="Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021." loading="lazy">
     <div class="pub-body">
       <h2><i>Forthcoming:</i> Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions.</h2>
       <h3>Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.</h3>
@@ -129,7 +125,7 @@ title: Publications
       <h2>Les souvenirs des Val-de-marnais collectés par les archives départementales.</h2>
       <h3>Culture et Recherche, N°131, 2025, p. 42.</h3>
       <p class="pub-abstract">
-              <h4></h4>
+              <h4>La Grande Collecte a contribué à faire sortir de l’ombre les archives privées de 14-18. Elle a aussi été l’occasion, pour les archives départementales du Val-de-Marne, d’enregistrer la parole de déposants. Se pose à présent la question du statut de ces documents.</h4>
       </p>
       <p class="pub-links">
         <a class="btn btn-primary" href="https://www.culture.gouv.fr/thematiques/enseignement-superieur-et-recherche/la-revue-culture-et-recherche/14-18" target="_blank" rel="noopener">Read →</a>
