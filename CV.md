@@ -4,4 +4,9 @@ title: CV
 subtitle: 
 ---
 
-<embed src="https://EstelleGvl.github.io/assets/download/20250826_CV_EGE.pdf" type="application/pdf" />
+<embed 
+  src="https://EstelleGvl.github.io/assets/download/20250826_CV_EGE.pdf" 
+  type="application/pdf" 
+  width="80%" 
+  height="800px" 
+  style="display:block; margin: 0 auto; border:none;" />
