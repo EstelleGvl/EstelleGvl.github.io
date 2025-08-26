@@ -1163,7 +1163,7 @@ h1, h2 {
   background-repeat: no-repeat;
   background-size: cover;
 
-  min-height: 420px;                   /* safety even if include forgot it */
+  min-height: 240px;                   /* safety even if include forgot it */
   position: relative;
 }
 .parallax::after {                     /* optional dark overlay */
