@@ -3,7 +3,7 @@ layout: page
 title: My Career in Museums
 ---
 
-Before joining Yalein 2022, I worked for several cultural institutions in France and the Gulf, including the Louvre Abu Dhabi, the Bibliothèque nationale de France  in the medieval manuscripts department, the Musée national du Moyen Age - Thermes de Cluny in Paris, the Air and Space museum in le Bourget, in archives and the private sector.
+Before joining Yale in 2022, I worked for several cultural institutions in France and the Gulf, including the Louvre Abu Dhabi, the Bibliothèque nationale de France  in the medieval manuscripts department, the Musée national du Moyen Age - Thermes de Cluny in Paris, the Air and Space museum in le Bourget, in archives and the private sector.
 
 <div style="display: flex; align-items: center;">
 
