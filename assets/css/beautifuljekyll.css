@@ -1152,3 +1152,31 @@ h1, h2 {
 }
 @media (max-width: 700px) { .two-col { grid-template-columns: 1fr; } }
 .form-status { margin: 0.25rem 0 0; font-size: 0.95rem; }
+
+
+.parallax {
+  background-image: var(--bg);         /* ← reads the inline --bg you set */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  min-height: 420px;                   /* safety even if include forgot it */
+  position: relative;
+}
+.parallax::after {                     /* optional dark overlay */
+  content: "";
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.25);
+}
+.parallax-content {
+  position: relative; z-index: 1;
+  color: #fff; text-align: center;
+  padding: 140px 20px;
+  max-width: 900px; margin: 0 auto;
+}
+
+/* iOS/mobile fallback (fixed is buggy there) */
+@media (max-width: 900px) {
+  .parallax { background-attachment: scroll; }
+}
