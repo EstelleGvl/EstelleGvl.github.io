@@ -1231,3 +1231,13 @@ footer {
 }
 footer a { color: #eee; }
 footer a:hover { color: #fff; }
+
+
+footer a {
+  color: #ffcc66;
+  font-weight: 600;
+}
+footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
