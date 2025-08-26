@@ -381,7 +381,7 @@ img {
 
 /* --- Footer --- */
 
-footer {
+/*footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
   margin-top: 3.125rem;
@@ -392,6 +392,7 @@ footer {
     background-attachment: fixed;
   {% endif %}
 }
+*/
 
 footer p.text-muted {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
@@ -1170,10 +1171,13 @@ h1, h2 {
   background: rgba(0,0,0,.25);
 }
 .parallax-content {
-  position: relative; z-index: 1;
-  color: #fff; text-align: center;
-  padding: 140px 20px;
-  max-width: 900px; margin: 0 auto;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+  text-align: center;
+  padding: 80px 20px;   /* was 140px 20px */
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 /* iOS/mobile fallback (fixed is buggy there) */
@@ -1212,3 +1216,17 @@ footer {
   );
   color: #fff;
 }
+
+/* Final footer style: blends with parallax */
+footer {
+  margin-top: 0;
+  padding: 2rem 0;            /* keep some spacing inside */
+  border-top: none;           /* remove line between parallax and footer */
+  background: linear-gradient(
+    rgba(0,0,0,0.5) 0%,
+    #111 60%
+  );
+  color: #fff;
+}
+footer a { color: #eee; }
+footer a:hover { color: #fff; }
