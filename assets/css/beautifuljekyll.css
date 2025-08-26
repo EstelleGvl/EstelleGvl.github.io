@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 0.5rem;
+  font-size: 1.15rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -43,7 +43,7 @@ h4 {
   font-size: 0.75rem;
 }
 h1, h2, h3, h4 {
-  margin-top: 1.25rem;
+  margin-top: 1.0rem;
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }};
