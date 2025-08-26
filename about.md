@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Estelle Guéville
-subtitle: Assistant Curator and Researcher
+title: Research Interests
 ---
-
-## Research interests
 
 **Digital Humanities**
 
