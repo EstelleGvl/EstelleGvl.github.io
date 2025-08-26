@@ -5,6 +5,8 @@ title: Publications
 
 ## Monographs
 
+<br>
+
 <section class="pub-card">
   <img src="/assets/img/medievallunch.jpg" alt="Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.">
   <div class="pub-body">
@@ -15,9 +17,13 @@ title: Publications
   </div>
 </section>
 
+<br>
+
 <!-- Duplicate the block above for each publication -->
 
 ## Peer-reviewed articles
+
+<br>
 
 <div class="pub-list">
 
@@ -99,7 +105,12 @@ title: Publications
 
 </div>
 
+<br>
+
+
 ## Editorially-reviewed articles
+
+<br>
 
 <div class="pub-list">
 
