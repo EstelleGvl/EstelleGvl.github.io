@@ -1180,3 +1180,8 @@ h1, h2 {
 @media (max-width: 900px) {
   .parallax { background-attachment: scroll; }
 }
+
+.parallax {
+  width: 100vw;          /* full viewport width */
+  margin-left: calc(-50vw + 50%); /* break out of centered container */
+}
