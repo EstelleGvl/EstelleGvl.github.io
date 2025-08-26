@@ -55,7 +55,7 @@ title: Publications
 
   <!-- Publication 3 -->
   <section class="pub-card">
-    <img class="pub-img" src="/assets/img/JDMDH.png"
+    <img class="pub-img" src="/assets/img/JDMDH.jpg"
          alt="Jounal of Data Mining and Digital Humanities, 2024." loading="lazy">
     <div class="pub-body">
       <h2>Transcribing Medieval Manuscripts for Machine Learning.</h2>
