@@ -44,10 +44,10 @@ h3,h4,h5,h6 {
 
 
 h1 {
-  font-size: 2.0rem;
+  font-size: 1.5rem;
 }
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 h3 {
   font-size: 1.0rem;
@@ -1073,4 +1073,47 @@ pre {
   .btn { border-color: #333; color: #ddd; }
   .btn-primary { background: #eee; color: #111; border-color: #eee; }
   .pub-abstract { color: #bbb; }
+}
+
+
+/* Fix the broken selector */
+h1, h2 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+/* Publications: collapse default margins inside cards and let GAP do the spacing */
+.pub-card h1,
+.pub-card h2,
+.pub-card h3,
+.pub-card h4,
+.pub-card p {
+  margin: 0;                /* reset all margins inside pub cards */
+}
+
+/* Fine-tune the rhythm inside the card */
+.pub-body { gap: 0.5rem; }  /* was 0.6rem; tweak to taste */
+
+.pub-body h2 {              /* title */
+  margin: 0.1rem 0 0.2rem;  /* small breathing space */
+}
+
+.pub-body h3,               /* publication (venue/year) */
+.pub-body h4 {              /* “Abstract” label if you use one */
+  margin: 0.1rem 0;
+}
+
+/* Abstract paragraph (it's a <p>) */
+.pub-abstract {
+  line-height: 1.5;
+  margin: 0.25rem 0 0.5rem; /* much tighter than global p margins */
+}
+
+/* Read button row is a <p> with class .pub-links — kill global p margins */
+.pub-links {
+  margin: auto 0 0 0;       /* stick to bottom, no extra bottom margin */
+  display: flex;
+  gap: .6rem;
+  flex-wrap: wrap;
 }
