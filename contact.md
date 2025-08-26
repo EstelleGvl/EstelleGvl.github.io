@@ -9,6 +9,8 @@ subtitle:
 
 <p style="text-align:center;">Thanks for your visit!</p>
 
+<br>
+
 <section class="contact-card">
   <h2>Contact me</h2>
 
