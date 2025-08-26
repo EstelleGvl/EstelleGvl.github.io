@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title:
 subtitle: 
 ---
 
@@ -12,7 +12,7 @@ subtitle:
 <br>
 
 <section class="contact-card">
-  <h2>Contact me</h2>
+  <h2 style="text-align:center;">Contact me</h2>
 
   <form id="contact-form" action="https://formspree.io/f/xyzdybkd" method="POST" novalidate>
     <div class="two-col">

@@ -94,7 +94,7 @@ title: Publications
   
 <!-- Publication X -->
   <section class="pub-card">
-    <img src="/assets/img/pecia.jpg" alt="Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021." loading="lazy">
+    <img src="/assets/img/latin40.jpg" alt="Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021." loading="lazy">
     <div class="pub-body">
       <h2><i>Forthcoming:</i> Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions.</h2>
       <h3>Proceedings of the conference <i>From Fragments to Whole: Interpreting Medieval Manuscripts Fragments.</i> Bristol University, UK, September 2021.</h3>
