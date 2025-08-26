@@ -6,7 +6,7 @@ title: Publications
 ## Monographs
 
 <section class="pub-card">
-  <img src="/assets/img/medievallunch.jpg" alt="Test">
+  <img src="/assets/img/medievallunch.jpg" alt="Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.">
   <div class="pub-body">
     <h2>Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.”</h2>
     <h3>Arc Humanities Press, 2025.</h3>
@@ -23,7 +23,7 @@ title: Publications
 
   <!-- Publication 1 -->
   <section class="pub-card">
-    <img src="/assets/img/DigitalStudiesinLanguageandLiterature.jpg" alt="Test">
+    <img src="/assets/img/DigitalStudiesinLanguageandLiterature.jpg" alt="Digital Studies in Language and Literature, 2024.">
     <div class="pub-body">
       <h2>Everyone Leaves a Trace: Exploring Transcriptions of  Medieval Manuscripts with Computational Methods.</h2>
       <h3>Digital Studies in Language and Literature, 2024.</h3>
@@ -39,7 +39,7 @@ title: Publications
   <!-- Publication 2 -->
   <section class="pub-card">
     <img class="pub-img" src="/assets/img/DSH2024.jpg"
-         alt="Medieval Distant Viewing" loading="lazy">
+         alt="Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024" loading="lazy">
     <div class="pub-body">
       <h2>Is Medieval Distant Viewing Possible? : Extending and Enriching Annotation of Legacy Image Collections using Visual Analytics.</h2>
       <h3>Digital Scholarship in the Humanities, Volume 39, Issue 2, June 2024, Pages 638–656</h3>
@@ -56,7 +56,7 @@ title: Publications
   <!-- Publication 3 -->
   <section class="pub-card">
     <img class="pub-img" src="/assets/img/JDMDH.png"
-         alt="Transcribing Medieval Manuscripts for Machine Learning." loading="lazy">
+         alt="Jounal of Data Mining and Digital Humanities, 2024." loading="lazy">
     <div class="pub-body">
       <h2>Transcribing Medieval Manuscripts for Machine Learning.</h2>
       <h3>Jounal of Data Mining and Digital Humanities, 2024.</h3>
@@ -73,7 +73,7 @@ title: Publications
   <!-- Publication 4 -->
   <section class="pub-card">
     <img class="pub-img" src="/assets/img/pecia.jpg"
-         alt="Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017." loading="lazy">
+         alt="Le manuscrit médiéval: texte, objet et outil de transmission. Volume I. Brepols: Pecia. Le livre et l’écrit. N°22." loading="lazy">
     <div class="pub-body">
       <h2>Les manuscrits médiévaux occidentaux dans la collection du Louvre Abu Dhabi. 2009-2017.</h2>
       <h3>Le manuscrit médiéval: texte, objet et outil de transmission. Volume I. Brepols: Pecia. Le livre et l’écrit. N°22, p. 105-153.</h3>
