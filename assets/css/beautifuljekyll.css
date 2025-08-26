@@ -1185,3 +1185,8 @@ h1, h2 {
   width: 100vw;          /* full viewport width */
   margin-left: calc(-50vw + 50%); /* break out of centered container */
 }
+
+
+.parallax::after {
+  background: rgba(0,0,0,0.4);
+}
