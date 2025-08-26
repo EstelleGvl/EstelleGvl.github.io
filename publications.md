@@ -6,6 +6,24 @@ title: Publications
 ## Books
 - Wrisley, David J., and Guéville, Estelle. *Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible.”* Arc Humanities Press.  
 
+
+<h1>Publications</h1>
+
+<section class="pub-card">
+  <img src="/assets/img/medievallunch.jpg" alt="Test">
+  <div class="pub-body">
+    <h2>Everyone Leaves a Trace: Exploring Transcriptions of  Medieval Manuscripts with Computational Methods.</h2>
+    <p class="pub-abstract">
+      The topic of this paper is a thirteenth-century manuscript from the French National Library (Paris, BnF français 24428) containing three popular texts: an encyclopedic work, a bestiary and a collection of animal fables. We have automatically transcribed the manuscript using a custom handwritten text recognition (HTR) model for old French. Rather than a content-based analysis of the manuscript’s transcription, we adapt quantitative methods normally used for authorship attribution and clustering to the analysis of scribal contribution in the manuscript. Furthermore, we explore the traces that are left when texts are copied, transcribed and/or edited, and the importance of that trace for computational textual analysis with orthographically unstable historical languages. We argue that the method of transcription is fundamental for being able to think about complex modes of authorship which are so important for understanding medieval textual transmission. The paper is inspired by trends in digital scholarship in the mid-2020s, such as public transcribe-a-thons in the GLAM (Galleries, Libraries, Archives and Museums) sector, the opening up of digitized archival collections with methods such as HTR, and computational textual analysis of the transcriptions.
+    </p>
+    <p class="pub-links">
+      <a class="btn btn-primary" href="https://www.degruyterbrill.com/document/doi/10.1515/dsll-2024-0012/html?srsltid=AfmBOoozqaZdRXvvjMDAu3u-2VeqYnMN-MYPz0dWLXYcB6rhNJQ_Nu5L" target="_blank" rel="noopener">Read →</a>
+    </p>
+  </div>
+</section>
+
+<!-- Duplicate the block above for each publication -->
+
 ## Peer-reviewed articles
 - *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
 Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
