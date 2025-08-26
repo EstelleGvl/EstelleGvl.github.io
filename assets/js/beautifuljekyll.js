@@ -114,3 +114,32 @@ var BeautifulJekyllJS = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+
+
+<script>
+  const form = document.getElementById('contact-form');
+  const statusEl = document.getElementById('form-status');
+
+  if (form) {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      statusEl.textContent = 'Sending…';
+      try {
+        const res = await fetch(form.action, {
+          method: 'POST',
+          body: new FormData(form),
+          headers: { 'Accept': 'application/json' }
+        });
+        if (res.ok) {
+          form.reset();
+          statusEl.textContent = 'Thanks! Your message was sent.';
+        } else {
+          const data = await res.json().catch(() => ({}));
+          statusEl.textContent = (data.errors && data.errors[0]?.message) || 'Oops, something went wrong.';
+        }
+      } catch {
+        statusEl.textContent = 'Network error. Please try again.';
+      }
+    });
+  }
+</script>
