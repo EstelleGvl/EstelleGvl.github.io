@@ -87,12 +87,53 @@ title: Publications
   </section>
 
 
+  
+<!-- Publication X -->
+  <section class="pub-card">
+    <img class="pub-img" src="/assets/img/pecia.jpg"
+         alt="Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021." loading="lazy">
+    <div class="pub-body">
+      <h2><i>Forthcoming:</i> Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions.</h2>
+      <h3>Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.</h3>
+      <p class="pub-abstract">
+            <h4></h4>
+     </p>
+    </div>
+  </section>
+
 </div>
 
-
-- *Forthcoming:* “Automatic Transcription and the Fragment: New Technologies for Situating Large Manuscript Traditions”.  
-Guéville, Estelle, and Wrisley, David Joseph. 2023. Proceedings of the conference *From Fragments to Whole: Interpreting Medieval Manuscripts Fragments*. Bristol University, UK, September 2021.
-
 ## Editorially-reviewed articles
-- ["Creating New Audiences for Digital Objects Through Museum-University Collaboration."](https://www.sharjahmuseums.ae/en-US/Publication/MiddleEastJournal) Cappelletto, Niccolò Acram, Guéville, Estelle, and Wrisley, David Joseph. 2022. *Museums in the Middle East Journal.* Sharjah, UAE.
-- "Les souvenirs des Val-de-marnais collectés par les archives départementales." Estelle Guéville. 2015. *Culture et Recherche*. N°131. P. 42.
+
+<div class="pub-list">
+
+<!-- Publication 1 -->
+  <section class="pub-card">
+    <img src="/assets/img/MMEJ.jpg" alt="Digital Studies in Language and Literature, 2024.">
+    <div class="pub-body">
+      <h2>Creating New Audiences for Digital Objects Through Museum-University Collaboration.</h2>
+      <h3>Museums in the Middle East Journal.* Sharjah, UAE.</h3>
+      <p class="pub-abstract">
+              <h4>This article discusses the Paris Bible Project (PBP), an initiative that started during the pandemic between the Louvre Abu Dhabi (LAD) and New York University Abu Dhabi (NYUAD), with a professional relationship between researchers on Saadiyat Island, Abu Dhabi, turned virtual. This inter-institutional partnership has proven to be a vibrant scholarly exchange, with a growing list of participation in international conferences and papers. In this article, we argue that by studying digitized objects from the museum, not only do researchers break new ground in their fields of study, but the museum objects they study also gain new audiences.</h4>
+      </p>
+      <p class="pub-links">
+        <a class="btn btn-primary" href="https://archive.nyu.edu/handle/2451/63847" target="_blank" rel="noopener">Read →</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Publication 2 -->
+  <section class="pub-card">
+    <img src="/assets/img/culturerecherche.jpg" alt="Culture et Recherche, N°131, 2025.">
+    <div class="pub-body">
+      <h2>Les souvenirs des Val-de-marnais collectés par les archives départementales.</h2>
+      <h3>Culture et Recherche, N°131, 2025, p. 42.</h3>
+      <p class="pub-abstract">
+              <h4></h4>
+      </p>
+      <p class="pub-links">
+        <a class="btn btn-primary" href="https://www.culture.gouv.fr/thematiques/enseignement-superieur-et-recherche/la-revue-culture-et-recherche/14-18" target="_blank" rel="noopener">Read →</a>
+      </p>
+    </div>
+  </section>
+</div>
