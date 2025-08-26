@@ -25,11 +25,24 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
-h1,h2,h3,h4,h5,h6 {
+h1,h2, {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
+
+h3,h4,h5,h6 {
+  font-family: 'Lora', 'Times New Roman', serif;
+  color: {{ site.text-col | default: "#404040" }};
+  position: relative;
+  background-color: {{ site.page-col | default: "#FFFFFF" }};
+  {% if site.page-img %}
+  background-image: url({{ site.page-img | relative_url }});
+  background-attachment: fixed;
+  {% endif %}
+}
+
+
 h1 {
   font-size: 2.0rem;
 }
@@ -999,7 +1012,7 @@ pre {
 /* Publications layout */
 .pub-list {
   display: grid;
-  gap: 1.25rem;
+  gap: 1.0rem;
 }
 
 .pub-card {
