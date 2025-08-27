@@ -3,11 +3,11 @@ layout: page
 title: My Career in GLAM
 ---
 
-For more than 10 years, I have built a career at the intersection of museums, archives, libraries, and research institutions. Along the way, I have had the privilege to work with some of the world’s most inspiring collections, from medieval manuscripts at the Bibliothèque nationale de France to the galleries of the Louvre Abu Dhabi and the libraries of Yale University. Over the years, I have curated exhibitions, researched and written about artworks, managed collections, and helped shape acquisitions in fields ranging from medieval and Islamic art to the history of science, medicine and aerospace.
+For more than 10 years, I have built a career at the intersection of museums, archives, libraries, and research institutions. Along the way, I have had the privilege to work with some of the world’s most inspiring collections, from medieval manuscripts at the <a href="https://www.bnf.fr/en">Bibliothèque nationale de France</a> to the galleries of the <a href="https://www.louvreabudhabi.ae/">Louvre Abu Dhabi</a> and the libraries of Yale University. Over the years, I have curated exhibitions, researched and written about artworks, managed collections, and helped shape acquisitions in fields ranging from medieval and Islamic art to the history of science, medicine and aerospace.
 
 <div style="display: flex; align-items: center;">
 
-What I enjoy most is bringing collections to life, whether through exhibitions, research, or storytelling, and making them accessible to wider audiences. Education is what drives me on a daily basis. At the Louvre Abu Dhabi (2016-2022), I contributed to the museum’s development both before and after its opening. As Assistant Curator and later Researcher, I oversaw acquisitions in medieval and Islamic art, manuscripts, and scientific instruments, curated and coordinated international exhibitions such as *Furusiyya: the Art of Chivalry between East and West,* and co-developed the museum’s scientific strategy. I also managed documentation, collection care, and the training of staff and interns, ensuring rigorous standards in conservation and emergency planning.
+What I enjoy most is bringing collections to life, whether through exhibitions, research, or storytelling, and making them accessible to wider audiences. Education is what drives me on a daily basis. At the Louvre Abu Dhabi (2016-2022), I contributed to the museum’s development both before and after its opening. As Assistant Curator and later Researcher, I oversaw acquisitions in medieval and Islamic art, manuscripts, and scientific instruments, curated and coordinated international exhibitions such as  <a href="https://www.louvreabudhabi.ae/en/explore/exhibitions/furusiyya-the-art-of-chivalry-between-east-and-west">*Furusiyya: the Art of Chivalry between East and West,*</a> and co-developed the museum’s scientific strategy. I also managed documentation, collection care, and the training of staff and interns, ensuring rigorous standards in conservation and emergency planning.
 
   <a href="/assets/img/LAD.jpg" data-lightbox="PBP" data-title="Louvre Abu Dhabi ©Beverly Galdamez">
     <img src="/assets/img/LAD.jpg" title="Louvre Abu Dhabi ©Beverly Galdamez" style="width: 3000px; margin-right: 150px;">
@@ -15,7 +15,7 @@ What I enjoy most is bringing collections to life, whether through exhibitions, 
   
 </div>
 
-My earlier career gave me a solid foundation across different institutions: the Musée national du Moyen Âge – Thermes de Cluny, the Musée de l’Air et de l’Espace, Eau de Paris, and the Archives départementales du Val-de-Marne. In these roles, I worked on exhibition design and installation, scientific research, preventive conservation, public engagement, and digital initiatives such as virtual exhibitions. Across all these experiences, I have developed a broad set of competences:
+My earlier career gave me a solid foundation across different institutions: the <a href="https://www.musee-moyenage.fr/">Musée national du Moyen Âge – Thermes de Cluny,</a> the <a href="https://www.museeairespace.fr/">Musée de l’Air et de l’Espace</a>, <a href="https://www.eaudeparis.fr/">Eau de Paris</a>, and the <a href="https://archives.valdemarne.fr">Archives départementales du Val-de-Marne</a>. In these roles, I worked on exhibition design and installation, scientific research, preventive conservation, public engagement, and digital initiatives such as virtual exhibitions. Across all these experiences, I have developed a broad set of competences:
   - **Exhibition curation:** from conception and research to scenography, object selection, and label writing. 
   - **Collection management:** documentation, conservation, rotations, emergency planning, and condition reporting. 
   - **Acquisitions and research:** preparing scholarly notes, conducting iconographic studies, and contributing to strategic collection development. 
@@ -23,3 +23,4 @@ My earlier career gave me a solid foundation across different institutions: the 
   - **Project management:** coordinating teams, supervising interns, and liaising across departments and international partners. 
 
 Above all, I bring together a passion for research and hands-on curatorial work, collaborating with colleagues, training young professionals, and sharing collections with the public.
+

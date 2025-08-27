@@ -4,11 +4,11 @@ title: My PhD
 ---
 
 # Yale University
-I am currently a fully funded PhD candidate in Medieval Studies at Yale University (2022–ongoing), where I also earned an M.A. and M.Phil in Medieval Studies (2025). My advisors are Prof. Jessica Brantley and Dr. Alex Gil. Alongside my PhD, I completed certificates in Public Humanities, Material Histories of the Human Record, and Digital Humanities.
+I am currently a fully funded PhD candidate in Medieval Studies at Yale University (2022–ongoing), where I also earned an M.A. and M.Phil in Medieval Studies (2025). My advisors are [Prof. Jessica Brantley](https://english.yale.edu/people/tenured-and-tenure-track-faculty-professors/jessica-brantley) and [Dr. Alex Gil](https://span-port.yale.edu/people/alexander-gil-fuentes). Alongside my PhD, I completed certificates in [Public Humanities](https://ph.yale.edu/), [Material Histories of the Human Record](https://materialhistories.yale.edu/), and [Digital Humanities](https://dhlab.yale.edu/awards/certificate.html).
 
-At Yale, my experience has been deeply interdisciplinary, combining manuscript studies, digital humanities, museum work, and public engagement. I serve as a Digital Humanities Consultant at the Yale DH Lab (2024–ongoing), and I have taught or co-taught courses ranging from large undergraduate lectures (HIST 211: *Birth of Europe, 1000–1500*) to seminars built around teaching with collections at the Beinecke Library (ENGL 114: *The Tortured Artist*; FREN 191: *Literary Translation*). I also taught in the graduate seminar *Introduction to Public Humanities*.
+At Yale, my experience has been deeply interdisciplinary, combining manuscript studies, digital humanities, museum work, and public engagement. I serve as a Digital Humanities Consultant at the [Yale DH Lab](https://dhlab.yale.edu/) (2024–ongoing), and I have taught or co-taught courses ranging from large undergraduate lectures (HIST 211: *Birth of Europe, 1000–1500*) to seminars built around teaching with collections at the Beinecke Library (ENGL 114: *The Tortured Artist*; FREN 191: *Literary Translation*). I also taught in the graduate seminar *Introduction to Public Humanities*.
 
-Outside the classroom, I have been active in Yale’s academic and community life: co-creating the Yale Digital Humanities Graduate Student Colloquium, serving as an elected representative on the Graduate Student Assembly, and chairing the Yale Lectures in Medieval Studies, where I fundraised $22,000 to support the program in 2024-2025.
+Outside the classroom, I have been active in Yale’s academic and community life: co-creating the Yale Digital Humanities Graduate Student Colloquium, serving as an elected representative on the [Graduate Student Assembly](https://gsa.yale.edu/), and chairing the [Yale Lectures in Medieval Studies](https://medieval.yale.edu/yale-lectures-medieval-studies), where I fundraised $22,000 to support the program in 2024-2025.
 
 
 # Dissertation
