@@ -1,12 +1,6 @@
 ---
 layout: base
 ---
-<script>
-  document.querySelectorAll('a[href^="http"]').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-  });
-</script>
 
 <div class="intro-header"></div>
 
@@ -29,3 +23,23 @@ layout: base
     </div>
   {% endif %}
 </div>
+
+<script>
+  function setExternalTargets() {
+    document.querySelectorAll('a[href^="http"]').forEach(link => {
+      try {
+        const u = new URL(link.href, window.location.origin);
+        if (u.hostname !== window.location.hostname) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        }
+      } catch (e) { /* ignore malformed URLs */ }
+    });
+  }
+
+  // Run after initial load
+  window.addEventListener('DOMContentLoaded', setExternalTargets);
+
+  // If you use Turbo/PJAX/InstantClick/etc., re-run after page swaps:
+  document.addEventListener('turbo:load', setExternalTargets);
+</script>
