@@ -68,3 +68,5 @@ title: Conferences
 
 ### 2023
 - *Upcoming:* Gengnagel, Tessa, Guéville, Estelle, Harr, James B., Malcolm, Aylin. (2023). “Podcasts, Blogs, And Video Essays: Digital Medieval Studies For The Masses? - A Round Table Discussion” *International Medieval Congress* (IMC 2023), Institute for Medieval Studies at the University of Leeds. July 2023.
+
+<br>

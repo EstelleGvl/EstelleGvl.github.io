@@ -25,7 +25,7 @@ My entry into the digital humanities was almost accidental. In 2019, while worki
 
 Today, I use computational methods to expand the study of manuscripts and cultural history. My work includes textual analysis (distant reading, handwritten text recognition, stylometry), visual analysis (neural networks, image processing, feature detection), and spatial approaches (GIS, mapping). These tools allow me to ask questions at scale that were once impossible to pursue.
 
-I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* is under contract with Arc Humanities Press. My dissertation,a large-scale recovery project on female scribes,relies on both qualitative and quantitative analysis, combined with computational approaches.  
+I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* is under contract with Arc Humanities Press. My dissertation, a large-scale recovery project on female scribes, relies on both qualitative and quantitative analysis, combined with computational approaches.  
 
 
 # Cultural and Intellectual Exchanges, Global History
@@ -40,3 +40,5 @@ Beyond exhibitions, I also developed educational tools—including the Sacred Te
 Outside research, I love to explore and stay active. I practice sports almost daily—from boxing, running, and weightlifting to climbing—and I once co-captained Yale’s Graduate Rugby Team. I also travel solo, hike, ride horses, and canoe, always looking for new outdoor challenges.
 
 I am a diver, a desert and off-road driver, and a creator of (non-award-winning!) board games. Most importantly, I am my friends’ go-to organizer for outdoor adventures.
+
+<br>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Illumination
+title: Medieval Distant Viewing
 ---
 
 

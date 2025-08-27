@@ -24,3 +24,4 @@ My earlier career gave me a solid foundation across different institutions: the 
 
 Above all, I bring together a passion for research and hands-on curatorial work, collaborating with colleagues, training young professionals, and sharing collections with the public.
 
+<br>
