@@ -10,9 +10,9 @@ At the heart of my research lie medieval manuscripts, which I study from codicol
 My earliest master's research, a monograph on a single manuscript at the Bibliothèque nationale de France, sparked a long-term interest in codicology. Since then, I have published the catalogue of medieval manuscripts in the Louvre Abu Dhabi collection and contributed to new acquisitions.
 
 I have also lead and contributed to several projects focusing on manuscripts:
-- **(["Paris Bible Project"](https://parisbible.github.io/)):** examining abbreviations and letterforms as markers of scribal practice. 
-- **(["Medieval Distant Viewing"](https://estellegvl.github.io/medievaldistantviewing/)):** using image analysis (object detection, image and instance-level annotation, colour and intensity analysis) to uncover visual patterns across corpora of manuscripts.  
-- **(["Understanding Medieval Manuscripts Gilding Techniques"](https://estellegvl.github.io/gildingtechniques/))** studying medieval illumination from a conservation and technical perspective. 
+- **["Paris Bible Project"](https://parisbible.github.io/):** examining abbreviations and letterforms as markers of scribal practice. 
+- **["Medieval Distant Viewing"](https://estellegvl.github.io/medievaldistantviewing/):** using image analysis (object detection, image and instance-level annotation, colour and intensity analysis) to uncover visual patterns across corpora of manuscripts.  
+- **["Understanding Medieval Manuscripts Gilding Techniques"](https://estellegvl.github.io/gildingtechniques/)** studying medieval illumination from a conservation and technical perspective. 
 
 
 **Gender Studies**
