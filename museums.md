@@ -3,7 +3,7 @@ layout: page
 title: My Career in Museums
 ---
 
-I have built a career at the intersection of museums, archives, libraries, and research institutions. Along the way, I have had the privilege to work with some of the world’s most inspiring collections, from medieval manuscripts at the Bibliothèque nationale de France to the galleries of the Louvre Abu Dhabi and the libraries of Yale University. Over the years, I have curated exhibitions, researched and written about artworks, managed collections, and helped shape acquisitions in fields ranging from medieval and Islamic art to the history of science, medicine and aerospace.
+For more than 10 years, I have built a career at the intersection of museums, archives, libraries, and research institutions. Along the way, I have had the privilege to work with some of the world’s most inspiring collections, from medieval manuscripts at the Bibliothèque nationale de France to the galleries of the Louvre Abu Dhabi and the libraries of Yale University. Over the years, I have curated exhibitions, researched and written about artworks, managed collections, and helped shape acquisitions in fields ranging from medieval and Islamic art to the history of science, medicine and aerospace.
 
 <div style="display: flex; align-items: center;">
 
