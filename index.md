@@ -8,7 +8,7 @@ subtitle: Historian of medieval manuscripts, exploring female scribes, book cult
   <img src="/assets/img/medievallunch.jpg" title="Paris Bible Project ©Serena Strecker">
 </a>
 
-# Welcome! 
+<div align="center"> # Welcome! </div>
 
 I am a historian of the medieval book, with a career spanning museums, libraries, and universities. My research explores manuscripts, scribal practices, illumination, gender, and cultural exchange, often through the lens of digital humanities and quantitative analysis.
 
