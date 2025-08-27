@@ -1,6 +1,12 @@
 ---
 layout: base
 ---
+<script>
+  document.querySelectorAll('a[href^="http"]').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script>
 
 <div class="intro-header"></div>
 
