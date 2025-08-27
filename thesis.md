@@ -23,11 +23,11 @@ So far, I have recovered evidence of over 1,000 women scribes active across Euro
 # Honors, Fellowships, and Grants
 
 My research has been supported by numerous internal and external awards, including:
-	•	MacMillan International Dissertation Research Fellowship (Yale, 2025)
-	•	Bourse Mark Pigott – Humanités Numériques, Bibliothèque nationale de France (2025)
-	•	Sterling Prize Fellowship, Yale University (2022–24)
-	•	International Center of Medieval Art (ICMA) Student Travel Grant (2025)
-	•	Multiple conference, summer school, and research travel bursaries in the US and Europe.
+- MacMillan International Dissertation Research Fellowship (Yale, 2025)
+- Bourse Mark Pigott – Humanités Numériques, Bibliothèque nationale de France (2025)
+- Sterling Prize Fellowship, Yale University (2022–24)
+- International Center of Medieval Art (ICMA) Student Travel Grant (2025)
+- Multiple conference, summer school, and research travel bursaries in the US and Europe.
 
 These fellowships have enabled me to pursue archival research across Europe, attend advanced training programs in manuscript studies and digital methods, and share my work at international conferences.
 
