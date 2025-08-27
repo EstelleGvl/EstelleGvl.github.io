@@ -3,15 +3,16 @@ layout: page
 title: Research Interests
 ---
 
+Manuscripts, Book History, Scribal Practices and Authorship, Illuminations, Female Scribes, Gender Studies, Digital Humanities, Museum Studies, Curatorship, Public Humanities
+
+
 **Digital Humanities**
 
-I met by chance Dr. David Joseph Wrisley in 2019. He came to the Louvre Abu Dhabi to present the [*Winter Institute in Digital Humanities*](https://wp.nyu.edu/widh/), which he co-created. He, and other scholars I had the chance to meet since then, introduced me to a whole new world of methodologies and possibilities.
+My entry into the digital humanities was almost accidental. In 2019, while working at the Louvre Abu Dhabi, I met Dr. David Joseph Wrisley, who introduced me to the [*Winter Institute in Digital Humanities*](https://wp.nyu.edu/widh/), which he co-created. That encounter opened an entirely new world of methodologies and possibilities.
 
-Today, I tend to use digital methods and computational analysis to broaden the research possibilities and I am particularly keen on working with distant reading and viewing, handwritten text recognition (HTR), stylometry, neural networks, image analysis and geographic information systems (GIS).
+Today, I use computational methods to expand the study of manuscripts and cultural history. My work includes textual analysis (distant reading, handwritten text recognition, stylometry), visual analysis (neural networks, image processing, feature detection), and spatial approaches (GIS, mapping). These tools allow me to ask questions at scale that were once impossible to pursue.
 
-I have published several articles in renowned journals and my co-authored book (with Dr. David J. Wrisley), "Machine Learning and Medieval Manuscripts: Big Data, Scribes, and the “Paris Bible" is currently under contract with Arc Humanities Press.
-
-My dissertation, a recovery project to identify female scribes and their production, includes quantitative and qualitative analysis combined with computational approaches.
+I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* is under contract with Arc Humanities Press. My dissertation,a large-scale recovery project on female scribes,relies on both qualitative and quantitative analysis, combined with computational approaches.
 
 <br>
 
@@ -23,30 +24,40 @@ My master's thesis was a monograph study of a single manuscript held in the coll
 
 My main research projects so far have focused on manuscripts, studying the abbreviations and special letter forms as markers of scribal practices (["Paris Bible Project"](https://parisbible.github.io/)), or the illuminations, either from a conservation and technical perspective (["Understanding Medieval Manuscripts Gilding Techniques"](https://estellegvl.github.io/gildingtechniques/)) or in relation to the text, using feature & object detection, analysis of colours, intensity, etc. to try to find patterns in corpora of similar manuscripts (["Deep Illumination"](https://estellegvl.github.io/deepillumination/)).
 
-<br>
 
-**Cultural and Intellectual Exchanges, Global History**
+At the heart of my research lie medieval manuscripts, which I study from codicological, textual, and visual perspectives. I am especially interested in scribal practices, attribution, and copy, as well as the relationship between text and image.
 
-I am also an interdisciplinary researcher interested in questions of cultural and intellectual exchange, particularly around the Mediterranean sea. It can concern the mobility of texts but also travels and exchanges of techniques and scientific knowledge or the appearance of similar cultural phenomena and practices in different cultures and civilizations.
+My earliest master's research, a monograph on a single manuscript at the Bibliothèque nationale de France, sparked a long-term interest in codicology. Since then, I have published the catalogue of medieval manuscripts in the Louvre Abu Dhabi collection and contributed to new acquisitions.
 
-As part of the Louvre Abu Dhabi scientific team, I worked on several projects, including the exhibition *Furusiyya, the Art of Chivalry between East and West* for which I was Scientific Referent. It confronted the artistic manifestations of the life of this social group, emphasizing the anthropological dimension and the economic, social and cultural contexts.
+I have also lead and contributed to several projects focusing on manuscripts:
+	- **Paris Bible Project:** examining abbreviations and letterforms as markers of scribal practice. 
+    - **Medieval Distant Viewing:** using image analysis (object detection, image and instance-level annotation, colour and intensity analysis) to uncover visual patterns across corpora of manuscripts. 
+    - **Understanding Gilding Techniques:** studying medieval illumination from a conservation and technical perspective. 
 
-I participated in the development of the Permanent Galleries of the museum, particularly the wing dedicated to the Middle Ages, addressing the thematics of religions (including the symbolism of light in Christianism, Buddhism and Islam, the symbols of the faith or the practice of pilgrimage), the Asian Trade Routes and the exchanges around the Mediterranean sea (from the Silk Roads and commercial routes of frankincense, ivory ceramics, to the intellectual, scientific and political exchanges). I also wrote pedagogical content and developed educational tools for Louvre Abu Dhabi, such as the Sacred Texts Flipbooks which explain and compare manuscripts from different religions and cultures (Bible, Pentateuch, Qur'an, Sutra) or the Coinage wall.
-
-I am also developing a spatial humanities project titled "Mapping Pilgrimages Roads" which is based on a unique manuscript in the Louvre Abu Dhabi collection.
 
 <br>
 
 **Gender Studies**
 
-My disseration looks at women as scribes and copyists in the long Middle Ages (until 1600) and their impact on the economy of manuscript production, both in *scriptoria* and in urban workshops. I recovered the production of more than a thousand women (more to come) and aim to make this dataset available to the larger scholarly community before the end of my PhD.
+My dissertation focuses on women as scribes and copyists in the long Middle Ages (before 1600) and their role in the economy of manuscript production, both in monastic *scriptoria* and urban workshops.
+
+So far, I have identified more than a thousand female scribes and am building a large open dataset to make this material accessible to the wider scholarly community. My approach combines traditional codicology with computational methods to quantify, map, and contextualize women’s contributions, challenging long-standing assumptions about literacy, authorship, and cultural production.
+
+<br>
+
+**Cultural and Intellectual Exchanges, Global History**
+
+I am also an interdisciplinary researcher deeply interested in cultural and intellectual exchange across the Mediterranean world, from the circulation of texts and ideas to the mobility of techniques, trade, and artistic practices.
+
+As part of the Louvre Abu Dhabi scientific team, I contributed to both the Permanent Galleries and major exhibitions, including *Furusiyya: The Art of Chivalry between East and West*, where I served as Scientific Referent. These projects explored themes such as pilgrimage, religious expression across cultures, trade routes, and scientific exchange.
+
+Beyond exhibitions, I also developed educational tools—including the Sacred Texts Flipbooks, which present and compare manuscripts from Christianity, Judaism, Islam, and Buddhism. Another project, currently on pause, *Mapping Pilgrimage Roads*, draws on a unique manuscript from the Louvre Abu Dhabi collection to explore mobility, devotion, and spatial history.
+
 
 <br>
 
 ## In my free time
 
-I like to discover and experience as much as I can. I practice sports almost daily, from boxing and running to lifting weights and climbing. I used to be one of the co-captains of Yale's Graduate Rugby Team.
+Outside research, I love to explore and stay active. I practice sports almost daily—from boxing, running, and weightlifting to climbing—and I once co-captained Yale’s Graduate Rugby Team. I also travel solo, hike, ride horses, and canoe, always looking for new outdoor challenges.
 
-I also love to solo travel and go hiking, horse-riding, canoeing or any other outdoor (and sometimes slightly dangerous) activity.
-
-Outside of universities, museums and libraries, I am also a creator of non-award-winning board games, a diver, a desert and off-road driver, and my friends' outdoor activity organizer.
+I am a diver, a desert and off-road driver, and a creator of (non-award-winning!) board games. Most importantly, I am my friends’ go-to organizer for outdoor adventures.
