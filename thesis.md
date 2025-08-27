@@ -3,7 +3,7 @@ layout: page
 title: My Thesis
 ---
 
-## Yale University
+# Yale University
 
 I am currently a fully funded PhD candidate in Medieval Studies at Yale University (2022–ongoing), where I also earned an M.A. and M.Phil in Medieval Studies (2025). My advisors are Prof. Jessica Brantley and Dr. Alex Gil. Alongside my PhD, I completed certificates in Public Humanities, Material Histories of the Human Record, and Digital Humanities.
 
@@ -12,7 +12,7 @@ At Yale, my experience has been deeply interdisciplinary, combining manuscript s
 Outside the classroom, I have been active in Yale’s academic and community life: co-creating the Yale Digital Humanities Graduate Student Colloquium, serving as an elected representative on the Graduate Student Assembly, and chairing the Yale Lectures in Medieval Studies, where I fundraised $22,000 to support the program in 2024-2025.
 
 
-## Dissertation
+# Dissertation
 
 *“Qui scripsit scribat semper.” Female Scribal Practices in Medieval Europe*
 
@@ -20,7 +20,7 @@ My dissertation is a recovery project devoted to identifying and contextualizing
 
 So far, I have recovered evidence of over 1,000 women scribes active across Europe, with many more to come. By building a large open-access dataset, I aim not only to quantify and map women’s involvement in manuscript culture but also to analyze their working environments, education, collaborations, and the types of texts they copied. My broader goal is to reshape how we understand the economy of manuscript production, literacy, and authorship in the Middle Ages.
 
-## Honors, Fellowships, and Grants
+# Honors, Fellowships, and Grants
 
 My research has been supported by numerous internal and external awards, including:
 	•	MacMillan International Dissertation Research Fellowship (Yale, 2025)
@@ -32,6 +32,6 @@ My research has been supported by numerous internal and external awards, includi
 These fellowships have enabled me to pursue archival research across Europe, attend advanced training programs in manuscript studies and digital methods, and share my work at international conferences.
 
 
-## Service and Professional Engagement
+# Service and Professional Engagement
 
 I am committed to service, collaboration, and public humanities. At Yale, I have been an elected Graduate Student Assembly representative, co-captain of the Graduate Rugby Football Club, and organizer of graduate student colloquia. Beyond Yale, I served on the Digital Medievalist Postgraduate Committee and am currently a member of professional associations including the Medieval Academy of America, the International Center of Medieval Art, and the European Association for Digital Humanities.

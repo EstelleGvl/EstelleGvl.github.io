@@ -14,7 +14,6 @@ I have also lead and contributed to several projects focusing on manuscripts:
 - **(["Medieval Distant Viewing"](https://estellegvl.github.io/medievaldistantviewing/)):** using image analysis (object detection, image and instance-level annotation, colour and intensity analysis) to uncover visual patterns across corpora of manuscripts.  
 - **(["Understanding Medieval Manuscripts Gilding Techniques"](https://estellegvl.github.io/gildingtechniques/))** studying medieval illumination from a conservation and technical perspective. 
 
-<br>
 
 **Gender Studies**
 
@@ -22,7 +21,6 @@ My dissertation focuses on women as scribes and copyists in the long Middle Ages
 
 So far, I have identified more than a thousand female scribes and am building a large open dataset to make this material accessible to the wider scholarly community. My approach combines traditional codicology with computational methods to quantify, map, and contextualize women’s contributions, challenging long-standing assumptions about literacy, authorship, and cultural production.
 
-<br>
 
 **Digital Humanities**
 
@@ -32,7 +30,6 @@ Today, I use computational methods to expand the study of manuscripts and cultur
 
 I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* is under contract with Arc Humanities Press. My dissertation,a large-scale recovery project on female scribes,relies on both qualitative and quantitative analysis, combined with computational approaches.
 
-<br>
 
 **Cultural and Intellectual Exchanges, Global History**
 
@@ -42,8 +39,6 @@ As part of the Louvre Abu Dhabi scientific team, I contributed to both the Perma
 
 Beyond exhibitions, I also developed educational tools—including the Sacred Texts Flipbooks, which present and compare manuscripts from Christianity, Judaism, Islam, and Buddhism. Another project, currently on pause, *Mapping Pilgrimage Roads*, draws on a unique manuscript from the Louvre Abu Dhabi collection to explore mobility, devotion, and spatial history.
 
-
-<br>
 
 ## In my free time
 
