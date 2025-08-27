@@ -4,12 +4,11 @@ title: Estelle Guéville
 subtitle: Historian of medieval manuscripts, exploring female scribes, book culture, and digital humanities.
 ---
 
-
-# Welcome! 
-
 <a href="/assets/img/medievallunch.jpg" data-lightbox="PBP" data-title="Paris Bible Project ©Serena Strecker">
   <img src="/assets/img/medievallunch.jpg" title="Paris Bible Project ©Serena Strecker">
 </a>
+
+# Welcome! 
 
 I am a historian of the medieval book, with a career spanning museums, libraries, and universities. My research explores manuscripts, scribal practices, illumination, gender, and cultural exchange, often through the lens of digital humanities and quantitative analysis.
 
