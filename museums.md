@@ -16,10 +16,10 @@ What I enjoy most is bringing collections to life, whether through exhibitions, 
 </div>
 
 My earlier career gave me a solid foundation across different institutions: the Musée national du Moyen Âge – Thermes de Cluny, the Musée de l’Air et de l’Espace, Eau de Paris, and the Archives départementales du Val-de-Marne. In these roles, I worked on exhibition design and installation, scientific research, preventive conservation, public engagement, and digital initiatives such as virtual exhibitions. Across all these experiences, I have developed a broad set of competences:
-  - **Exhibition curation:** from conception and research to scenography, object selection, and label writing.
-  - **Collection management:** documentation, conservation, rotations, emergency planning, and condition reporting.
-	- **Acquisitions and research:** preparing scholarly notes, conducting iconographic studies, and contributing to strategic collection development.
-	- **Education and public engagement:** designing interpretive materials, multimedia content, and guided tours for diverse audiences.
-	- **Project management:** coordinating teams, supervising interns, and liaising across departments and international partners.
+  - **Exhibition curation:** from conception and research to scenography, object selection, and label writing. 
+  - **Collection management:** documentation, conservation, rotations, emergency planning, and condition reporting. 
+  - **Acquisitions and research:** preparing scholarly notes, conducting iconographic studies, and contributing to strategic collection development. 
+  - **Education and public engagement:** designing interpretive materials, multimedia content, and guided tours for diverse audiences. 
+  - **Project management:** coordinating teams, supervising interns, and liaising across departments and international partners. 
 
 Above all, I bring together a passion for research and hands-on curatorial work, collaborating with colleagues, training young professionals, and sharing collections with the public.
