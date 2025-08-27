@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Thesis
+title: My PhD
 ---
 
 # Yale University
@@ -20,6 +20,7 @@ My dissertation is a recovery project devoted to identifying and contextualizing
 
 So far, I have recovered evidence of over 1,000 women scribes active across Europe, with many more to come. By building a large open-access dataset, I aim not only to quantify and map women’s involvement in manuscript culture but also to analyze their working environments, education, collaborations, and the types of texts they copied. My broader goal is to reshape how we understand the economy of manuscript production, literacy, and authorship in the Middle Ages.
 
+
 # Honors, Fellowships, and Grants
 
 My research has been supported by numerous internal and external awards, including:
@@ -35,3 +36,4 @@ These fellowships have enabled me to pursue archival research across Europe, att
 # Service and Professional Engagement
 
 I am committed to service, collaboration, and public humanities. At Yale, I have been an elected Graduate Student Assembly representative, co-captain of the Graduate Rugby Football Club, and organizer of graduate student colloquia. Beyond Yale, I served on the Digital Medievalist Postgraduate Committee and am currently a member of professional associations including the Medieval Academy of America, the International Center of Medieval Art, and the European Association for Digital Humanities.
+
