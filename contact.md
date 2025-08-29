@@ -9,11 +9,13 @@ subtitle:
 
 <p style="text-align:center;">Thanks for your visit!</p>
 
+
+
 <br>
 
 <section class="contact-card">
-  <h2 style="text-align:center;">Contact me</h2>
-
+  <h2 style="text-align:center;">For inquires about my research, consulting, speaking, or teaching a course, please feel free to reach out here.</h2>
+  <br>
   <form id="contact-form" action="https://formspree.io/f/xyzdybkd" method="POST" novalidate>
     <div class="two-col">
       <label>
