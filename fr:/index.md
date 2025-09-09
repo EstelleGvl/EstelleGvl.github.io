@@ -1,22 +1,22 @@
 ---
 layout: home
 lang: fr
-ref: index
+ref: 
 title: Estelle Guéville
-subtitle: Historian of medieval manuscripts, exploring female scribes, book culture, and digital humanities.
-permalink: /fr/index/
+subtitle: Historienne travaillant sur manuscrits médiévaux, les femmes copistes, la culture du livre et les humanités numériques.
+permalink: /fr/
 ---
 
 <a href="/assets/img/medievallunch.jpg" data-lightbox="PBP" data-title="Paris Bible Project ©Serena Strecker">
   <img src="/assets/img/medievallunch.jpg" title="Paris Bible Project ©Serena Strecker">
 </a>
 
-<h1 style="text-align: center;">Welcome!</h1>
+<h1 style="text-align: center;">Bienvenue !</h1>
 
-I am a historian of the medieval book, with a career spanning museums, libraries, and universities. My research explores manuscripts, scribal practices, illumination, gender, and cultural exchange, often through the lens of digital humanities and quantitative analysis.
+Je suis historienne du livre médiéval, avec une carrière à l’intersection des musées, des bibliothèques et des universités. Mes recherches portent sur les manuscrits, les pratiques scripturales, l’enluminure, le genre et les échanges culturels, souvent à travers le prisme des humanités numériques et de l’analyse quantitative.
 
-I am currently a <a href="https://medieval.yale.edu/people/estelle-gu-ville">PhD candidate</a>  at Yale University, where my dissertation focuses on recovering the work of female scribes in medieval Europe. Beyond academia, I have worked at institutions such as the Louvre Abu Dhabi, the Bibliothèque nationale de France, and Yale’s Cushing/Whitney Medical Library, curating exhibitions and making collections accessible to broader audiences.
+Je prépare actuellement une thèse de doctorat à <a href="https://medieval.yale.edu/people/estelle-gu-ville">l’Université Yale</a>, consacrée à la redécouverte du travail des femmes copistes dans l’Europe médiévale. En dehors du monde académique, j’ai travaillé dans des institutions telles que le Louvre Abu Dhabi, la Bibliothèque nationale de France et la Cushing/Whitney Medical Library de Yale, où j'ai géré des collections et organisé des expositions pour rendre ces collections accessibles à un large public.
 
-This site brings together my research, projects, and publications as well as a glimpse into my career in museums, public humanities, and digital scholarship.
+Ce site rassemble mes recherches, mes projets et mes publications, ainsi qu’un aperçu de mon parcours dans les musées, les humanités publiques et la recherche académique.
 
 <br>
