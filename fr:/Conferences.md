@@ -1,7 +1,9 @@
 ---
 layout: page
 lang: fr
+ref: conferences
 title: Conferences
+permalink: /fr/Conferences/
 ---
 
 ## Conference presentations

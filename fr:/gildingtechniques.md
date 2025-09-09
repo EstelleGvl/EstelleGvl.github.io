@@ -1,7 +1,9 @@
 ---
 layout: page
 lang: fr
+ref: gildingtechniques
 title: Understanding Medieval Manuscripts Gilding Techniques
+permalink: /fr/gildingtechniques/
 ---
 
 

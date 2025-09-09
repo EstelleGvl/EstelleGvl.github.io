@@ -1,7 +1,9 @@
 ---
 layout: page
 lang: fr
+ref: yalejourney
 title: My Journey at Yale
+permalink: /fr/yalejourney/
 ---
 
 

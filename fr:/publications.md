@@ -1,7 +1,9 @@
 ---
 layout: page
 lang: fr
+ref: publications
 title: Publications
+permalink: /fr/publications/
 ---
 
 ## Monographs
