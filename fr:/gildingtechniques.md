@@ -2,13 +2,10 @@
 layout: page
 lang: fr
 ref: gildingtechniques
-title: Understanding Medieval Manuscripts Gilding Techniques
+title: Comprendre les techniques d'enluminures des manuscrits médiévaux
 permalink: /fr/gildingtechniques/
 ---
 
+Plusieurs altérations ont été observées sur les enluminures dorées d’une Bible du Louvre Abu Dhabi (LAD 2013.051). Ce projet vise à identifier les composants dégradés des enluminures grâce à l’analyse stéréomicroscopique, à la spectroscopie de fluorescence X (XRF) et à d’autres techniques si nécessaire. L’objectif est de comprendre les processus de détérioration et ainsi de contribuer à améliorer la conservation de l’œuvre, tout en ouvrant de nouvelles perspectives sur les matériaux et les techniques employés dans les manuscrits enluminés médiévaux.  
 
-
-Several alterations have been observed on the gilded illuminations of a LAD Bible (LAD 2013.051). The project aims to identify the degraded components of the illuminations using stereomicroscopic analysis and X-Ray Fluorescence (XRF) spectroscopy and other techniques, as required, to understand the deterioration process and thus potentially improve the conservation of the artwork as well as open new prospects into the materials and techniques used in medieval illuminated manuscripts.
-
-A project in collaboration with Dr. Elsa Bourguignon, Louvre Abu Dhabi, and Dr. Pablo Londero, Louvre Abu Dhabi.
-
+Un projet mené en collaboration avec la Dr. Elsa Bourguignon (Louvre Abu Dhabi) et le Dr. Pablo Londero (Louvre Abu Dhabi).  
