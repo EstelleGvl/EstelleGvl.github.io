@@ -6,21 +6,19 @@ title: Medieval Distant Viewing
 permalink: /fr/medievaldistantviewing/
 ---
 
+Ce projet poursuit deux grands objectifs :  
 
+1. Créer un prototype destiné aux chercheurs et aux étudiants pour les aider à identifier les caractéristiques pertinentes de l’iconographie manuscrite.  
+   1. Détection automatique des enluminures sur une page et extraction de celles-ci.  
+   2. Reconnaissance automatique des objets représentés.  
+   3. Développement d’un système d’annotation spécifique aux manuscrits médiévaux.  
+   4. Système de recommandations pour confirmer ou enrichir les annotations.  
+   5. Classification des manuscrits selon les objets (et combinaisons d’objets) qu’ils représentent.  
+   6. Association des données extraites des images avec la sortie HTR (texte environnant).  
+   7. Visualisation des images selon des motifs ou des requêtes définies par l’utilisateur.  
+   8. Mise en œuvre d’une stratégie d’*active learning*. 
+   9. Reconnaissance automatique des personnages, actions et sujets, sur la base de combinaisons d’objets et d’indices textuels.  
 
-This project has two main objectives:
+2. Créer des profils d’enlumineurs en utilisant différents critères tels que les couleurs, la saturation, les contours, la symétrie, les objets et d’autres détails pour dégager des motifs spécifiques. Cela inclut la localisation et la datation afin d’identifier des profils particuliers et de suivre leur évolution. L’objectif est également de mettre en évidence les transformations et les tendances selon les lieux et les périodes, afin de détecter ce qui distingue les différents corpus.  
 
-1. Create a prototype for scholars and students to help identify relevant features of manuscript illumination.
-   1. Automatically detecting illuminations on a page and extract them
-   2. Automatically recognising objects
-   3. Exploring annotation system specific to medieval manuscripts
-   4. Recommendation system for confirming or expanding annotations
-   5. Classifying manuscripts by the objects, and combination of objects, they depict
-   6. Combining extracted data on image with HTR output (surrounding textual data)
-   7. Visualizing the images according to patterns or user queries
-   8. Implementing active learning strategy
-   9. Automatically recognising people, actions, subjects, based on the presence of a combination of objects and textual clues.
-2. Create Illuminator profiles using several features such as colours, saturation, edges, symmetry, objects, and other details to determine specific patterns. It includes localisation and dating details to determine specific illuminator profiles and track evolutions. The aim is also to find evolutions and patterns according to dates and places, to detect what is different across a corpus.
-
-A project in collaboration with Dr. David Wrisley, New-York University Abu Dhabi; Christofer Meinecke, Universität Leipzig and Dr. Stefan Jänicke, University of Southern Denmark.
-
+Un projet en collaboration avec Dr. David Wrisley, New York University Abu Dhabi ; Christofer Meinecke, Universität Leipzig ; et Dr. Stefan Jänicke, University of Southern Denmark.  

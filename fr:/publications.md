@@ -6,7 +6,7 @@ title: Publications
 permalink: /fr/publications/
 ---
 
-## Monographs
+## Ouvrages
 
 <div class="pub-list">
 
