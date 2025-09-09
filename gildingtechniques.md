@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: gildingtechniques
 title: Understanding Medieval Manuscripts Gilding Techniques
-permalink: /pages/gildingtechniques/
+permalink: /gildingtechniques/
 ---
 
 

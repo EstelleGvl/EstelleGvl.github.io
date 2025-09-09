@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: thesis
 title: My PhD
-permalink: /pages/thesis/
+permalink: /thesis/
 ---
 
 # Yale University

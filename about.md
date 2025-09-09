@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: about
 title: Research Interests
-permalink: /pages/about/
+permalink: /about/
 ---
 
 # Medieval Manuscripts

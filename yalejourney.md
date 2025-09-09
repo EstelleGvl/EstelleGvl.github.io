@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: yalejourney
 title: My Journey at Yale
-permalink: /pages/yalejourney/
+permalink: /yalejourney/
 ---
 
 

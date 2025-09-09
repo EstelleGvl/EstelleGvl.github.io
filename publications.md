@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: publications
 title: Publications
-permalink: /pages/publications/
+permalink: /publications/
 ---
 
 ## Monographs

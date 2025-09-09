@@ -3,7 +3,7 @@ layout: page
 lang: en
 ref: glam
 title: My Career in GLAM
-permalink: /pages/glam/
+permalink: /glam/
 ---
 
 For more than 10 years, I have built a career at the intersection of museums, archives, libraries, and research institutions. Along the way, I have had the privilege to work with some of the world’s most inspiring collections, from medieval manuscripts at the <a href="https://www.bnf.fr/en">Bibliothèque nationale de France</a> to the galleries of the <a href="https://www.louvreabudhabi.ae/">Louvre Abu Dhabi</a> and the libraries of Yale University. Over the years, I have curated exhibitions, researched and written about artworks, managed collections, and helped shape acquisitions in fields ranging from medieval and Islamic art to the history of science, medicine and aerospace.

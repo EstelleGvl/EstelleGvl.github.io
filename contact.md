@@ -4,7 +4,7 @@ lang: en
 ref: contact
 title:
 subtitle: 
-permalink: /pages/contact/
+permalink: /contact/
 ---
 
 {% include parallax.html src="/assets/img/pizan.jpg" %}
