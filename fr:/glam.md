@@ -1,6 +1,5 @@
 ---
 layout: page
-lang: en
 title: My Career in GLAM
 ---
 

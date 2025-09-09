@@ -1,6 +1,5 @@
 ---
 layout: page
-lang: en
 title: <i>Curriculum Vitae</i>
 subtitle: 
 ---
