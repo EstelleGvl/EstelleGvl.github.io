@@ -1,8 +1,10 @@
 ---
 layout: home
 lang: en
+ref: index
 title: Estelle Guéville
 subtitle: Historian of medieval manuscripts, exploring female scribes, book culture, and digital humanities.
+permalink: /pages/index/
 ---
 
 <a href="/assets/img/medievallunch.jpg" data-lightbox="PBP" data-title="Paris Bible Project ©Serena Strecker">

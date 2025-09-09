@@ -1,7 +1,9 @@
 ---
 layout: page
 lang: en
+ref: medievaldistantviewing
 title: Medieval Distant Viewing
+permalink: /pages/medievaldistantviewing/
 ---
 
 

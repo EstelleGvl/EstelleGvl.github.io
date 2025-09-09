@@ -1,8 +1,10 @@
 ---
 layout: page
 lang: en
+ref: contact
 title:
 subtitle: 
+permalink: /pages/contact/
 ---
 
 {% include parallax.html src="/assets/img/pizan.jpg" %}
