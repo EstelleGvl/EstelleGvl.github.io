@@ -21,6 +21,7 @@
     {% assign lang_prefix = '' %}
   {% endif %}
 
+  {%- comment -%} Base URL (should be "" for custom domain) {%- endcomment -%}
   {% assign base = site.baseurl | default: '' %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
@@ -31,6 +32,7 @@
         {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
 
         {%- if href.first -%}
+          {# ---------------- Dropdown ---------------- #}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
@@ -39,71 +41,56 @@
                   {%- assign ctext = linkparts[0] -%}
                   {%- assign chref = linkparts[1] -%}
                   {%- assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' -%}
-                {%- capture c_norm -%}
-                  {%- if cext -%}
-                    {{ chref }}
-                  {%- else -%}
-                    {%- assign cp = chref | strip -%}
-                    {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
-                    {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
-                    {%- if cp | slice: -1,1 != "/" and cp != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
-                    {{ base | append: lang_prefix | append: cp | replace: '//','/' }}
-                  {%- endif -%}
-                {%- endcapture -%}
+
+                  {%- capture c_norm -%}
+                    {%- if cext -%}
+                      {{ chref }}
+                    {%- else -%}
+                      {%- assign cp = chref | strip -%}
+                      {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
+                      {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
+                      {%- if cp | slice: -1,1 != "/" and cp != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
+                      {{ base | append: lang_prefix | append: cp | replace: '//','/' }}
+                    {%- endif -%}
+                  {%- endcapture -%}
+
                   <a class="dropdown-item" href="{{ c_norm | strip }}">{{ ctext }}</a>
                 {%- endfor -%}
               {%- endfor -%}
             </div>
           </li>
+
         {%- else -%}
-            {%- capture normalized_href -%}
-              {%- if is_external -%}
-                {{ href }}
-              {%- else -%}
-                {%- assign p = href | strip -%}
-                {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
-                {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
-                {%- if p | slice: -1,1 != "/" and p != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
-                {{ base | append: lang_prefix | append: p | replace: '//','/' }}
-              {%- endif -%}
-            {%- endcapture -%}
+          {# ---------------- Single item ---------------- #}
+          {%- capture normalized_href -%}
+            {%- if is_external -%}
+              {{ href }}
+            {%- else -%}
+              {%- assign p = href | strip -%}
+              {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
+              {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
+              {%- if p | slice: -1,1 != "/" and p != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
+              {{ base | append: lang_prefix | append: p | replace: '//','/' }}
+            {%- endif -%}
+          {%- endcapture -%}
+
           <li class="nav-item">
             <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
 
-      {%- comment -%} Language switcher placed as a nav item (always clickable) {%- endcomment -%}
+      {# ---------------- Language switch (always clickable) ---------------- #}
       <li class="nav-item">
-        {% assign current_lang = page.lang | default: 'en' %}
-        {% assign alt_lang = current_lang == 'fr' | default: false %}
-        {% if current_lang == 'fr' %}
-          {% assign alt_code = 'en' %}
-        {% else %}
-          {% assign alt_code = 'fr' %}
-        {% endif %}
-
-        {% assign alt_page = nil %}
-        {% if page.ref %}
-          {% assign alt_page = site.pages | where: 'ref', page.ref | where: 'lang', alt_code | first %}
-        {% endif %}
-
-        <span class="nav-link">
-          {% if current_lang == 'fr' %}
-            {% if alt_page %}
-              <a href="{{ alt_page.url | relative_url }}">EN</a> | <strong>FR</strong>
-            {% else %}
-              <a href="{{ page.url | remove_first: '/fr' | relative_url }}">EN</a> | <strong>FR</strong>
-            {% endif %}
-          {% else %}
-            <strong>EN</strong> |
-            {% if alt_page %}
-              <a href="{{ alt_page.url | relative_url }}">FR</a>
-            {% else %}
-              <a href="{{ ('/fr' | append: page.url) | replace: '//','/' | relative_url }}">FR</a>
-            {% endif %}
-          {% endif %}
-        </span>
+        {%- assign current_lang = page.lang | default: 'en' -%}
+        {%- if current_lang == 'fr' -%}
+          {%- assign en_url = page.url | remove_first: '/fr' -%}
+          <span class="nav-link"><a href="{{ base | append: en_url | replace: '//','/' }}">EN</a> | <strong>FR</strong></span>
+        {%- else -%}
+          {%- assign en_url = page.url -%}
+          {%- assign fr_url = '/fr' | append: en_url | replace: '//','/' -%}
+          <span class="nav-link"><strong>EN</strong> | <a href="{{ base | append: fr_url | replace: '//','/' }}">FR</a></span>
+        {%- endif -%}
       </li>
     </ul>
   </div>
