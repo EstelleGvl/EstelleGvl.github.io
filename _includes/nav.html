@@ -1,108 +1,87 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
+  {% assign domain = site.url | default: 'https://estellegueville.com' %}
+
   {% if site.title-img %}
-    <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}/">
+    <a class="navbar-brand navbar-brand-logo" href="{{ domain }}/">
       <img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url }}"/>
     </a>
   {% elsif site.title %}
-    <a class="navbar-brand" href="{{ site.url }}/">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ domain }}/">{{ site.title }}</a>
   {% endif %}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  {% comment %} Language-aware config with fallback {% endcomment %}
-  {% assign navset = site['navbar-links'] %}
-  {% if page.lang == 'fr' %}
-    {% assign lang_prefix = '/fr' %}
-    {% if site['navbar-links-fr'] %}
-      {% assign navset = site['navbar-links-fr'] %}
-    {% endif %}
-  {% else %}
-    {% assign lang_prefix = '' %}
-  {% endif %}
+  {%- assign navset = site['navbar-links'] -%}
+  {%- assign lang_prefix = '' -%}
+  {%- if page.lang == 'fr' -%}
+    {%- assign lang_prefix = '/fr' -%}
+    {%- if site['navbar-links-fr'] -%}
+      {%- assign navset = site['navbar-links-fr'] -%}
+    {%- endif -%}
+  {%- endif -%}
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-      {% for link in navset %}
-        {% assign text = link[0] %}
-        {% assign href = link[1] %}
-        {% assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' %}
+      {%- for link in navset -%}
+        {%- assign text = link[0] -%}
+        {%- assign href = link[1] -%}
+        {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
 
-        {% if href.first %}
-          {% comment %} Dropdown {% endcomment %}
+        {%- if href.first -%}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
-              {% for childlink in href %}
-                {% for linkparts in childlink %}
-                  {% assign ctext = linkparts[0] %}
-                  {% assign chref = linkparts[1] %}
-                  {% assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' %}
-
-                  {% if cext %}
+              {%- for childlink in href -%}
+                {%- for linkparts in childlink -%}
+                  {%- assign ctext = linkparts[0] -%}
+                  {%- assign chref = linkparts[1] -%}
+                  {%- assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' -%}
+                  {%- if cext -%}
                     <a class="dropdown-item" href="{{ chref }}">{{ ctext }}</a>
-                  {% else %}
-                    {% assign cp = chref | strip %}
-                    {% if cp == "" %}{% assign cp = "/" %}{% endif %}
-                    {% if cp | slice: 0,1 != "/" %}{% assign cp = "/" | append: cp %}{% endif %}
-                    {% if cp | slice: -1,1 != "/" and cp != "/" %}{% assign cp = cp | append: "/" %}{% endif %}
-                    <a class="dropdown-item" href="{{ site.url }}{{ lang_prefix }}{{ cp | replace: '//','/' }}">{{ ctext }}</a>
-                  {% endif %}
-                {% endfor %}
-              {% endfor %}
+                  {%- else -%}
+                    {%- assign cp = chref | strip -%}
+                    {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
+                    {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
+                    {%- if cp | slice: -1,1 != "/" and cp != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
+                    <a class="dropdown-item" href="{{ domain }}{{ lang_prefix }}{{ cp | replace: '//','/' }}">{{ ctext }}</a>
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endfor -%}
             </div>
           </li>
-
-        {% else %}
-          {% comment %} Single item {% endcomment %}
-          {% if is_external %}
+        {%- else -%}
+          {%- if is_external -%}
             <li class="nav-item"><a class="nav-link" href="{{ href }}">{{ text }}</a></li>
-          {% else %}
-            {% assign p = href | strip %}
-            {% if p == "" %}{% assign p = "/" %}{% endif %}
-            {% if p | slice: 0,1 != "/" %}{% assign p = "/" | append: p %}{% endif %}
-            {% if p | slice: -1,1 != "/" and p != "/" %}{% assign p = p | append: "/" %}{% endif %}
+          {%- else -%}
+            {%- assign p = href | strip -%}
+            {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
+            {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
+            {%- if p | slice: -1,1 != "/" and p != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.url }}{{ lang_prefix }}{{ p | replace: '//','/' }}">{{ text }}</a>
+              <a class="nav-link" href="{{ domain }}{{ lang_prefix }}{{ p | replace: '//','/' }}">{{ text }}</a>
             </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+          {%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
 
-      {% comment %} Language switch (absolute) {% endcomment %}
       <li class="nav-item">
         {% assign current_lang = page.lang | default: 'en' %}
         {% if current_lang == 'fr' %}
           {% assign en_url = page.url | remove_first: '/fr' %}
           <span class="nav-link">
-            <a href="{{ site.url }}{{ en_url | replace: '//','/' }}">EN</a> | <strong>FR</strong>
+            <a href="{{ domain }}{{ en_url | replace: '//','/' }}">EN</a> | <strong>FR</strong>
           </span>
         {% else %}
           {% assign en_url = page.url %}
           {% assign fr_url = '/fr' | append: en_url | replace: '//','/' %}
           <span class="nav-link">
-            <strong>EN</strong> | <a href="{{ site.url }}{{ fr_url }}">FR</a>
+            <strong>EN</strong> | <a href="{{ domain }}{{ fr_url }}">FR</a>
           </span>
         {% endif %}
       </li>
     </ul>
   </div>
-
-  {% if site.navbar-extra %}
-    {% for file in site.navbar-extra %}
-      {% include {{ file }} %}
-    {% endfor %}
-  {% endif %}
-
-  {% if site.avatar and page.show-avatar != false %}
-    <div class="avatar-container">
-      <div class="avatar-img-border">
-        <a href="{{ site.url }}/">
-          <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
-        </a>
-      </div>
-    </div>
-  {% endif %}
 </nav>
