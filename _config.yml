@@ -1,47 +1,30 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
+# --- Required site URLs (needed for absolute links) ---
+url: "https://estellegueville.com"
+baseurl: ""        # leave empty with a custom domain
 
-# --- Required options --- #
-
-url: "https://estellegueville.com"   # required for absolute_url to work
-baseurl: ""                          # empty for a custom domain
-
-#Name of website
+# --- Site identity ---
 title: Estelle Guéville, Yale University
-
-# Your name to show in the footer
 author: Estelle Guéville
 
-# --- List of links in the navigation bar --- #
-
+# --- Navbar (English) ---
 navbar-links:
   About Me: 
     - My Research Interests: "about"
     - My Career in GLAM: "glam"
     - My PhD: "thesis"
-
-#  Consulting: "consulting"
-#    - Website for Graduate Students: "website"
-#    - CV design: "cv"
-
   Research and DH:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Medieval Distant Viewing: "medievaldistantviewing"
     - Understanding Medieval Manuscripts Gilding Techniques: "gildingtechniques"
     - Mapping the Blue Qur'an: "https://estellegvl.github.io/bluequran/"
     - Uprooted. The New Haven Time Capsule : "https://uprootedtimecapsule.github.io/"
-#    - Mapping pilgrimages roads: ""
   Publications: 
     - Publications: "publications"
-    - Conferences: "Conferences"
-
-  CV: "CV"
+    - Conferences: "conferences"
+  CV: "cv"
   Contact: "contact"
-#  Blog: "/blog"
 
-
+# --- Navbar (French) ---
 navbar-links-fr:
   À propos de moi:
     - Mes axes de recherche: "about"
@@ -55,88 +38,39 @@ navbar-links-fr:
     - Uprooted. The New Haven Time Capsule: "https://uprootedtimecapsule.github.io/"
   Publications:
     - Publications: "publications"
-    - Conférences: "Conferences"
-  CV: "CV"
+    - Conférences: "conferences"    # NOTE: lowercase slug
+  CV: "cv"                          # NOTE: lowercase slug
   Contact: "contact"
 
-
+# --- Blog pagination path ---
 paginate_path: "/blog/page:num/"
-# --- Logo --- #
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
+# --- Avatar / Logo ---
 avatar: "/assets/img/2022_Identity_EGE.jpg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+# title-img: /path/to/image   # (optional)
 
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-#title-img: /path/to/image
-
-
-# --- Footer social media links --- #
-
-# Select the social network links that you want to show in the footer.
-# Uncomment the links you want to show and add your information to each one.
+# --- Social links (footer) ---
 social-network-links:
   email: "estelle.gueville@yale.edu"
-#  facebook: deanattali
   github: EstelleGvl
-#  twitter: EstelleGvl
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
   linkedin: estellegueville
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
   instagram: estelle_gvl
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
   ORCID: 0000-0003-2603-1051
   google-scholar: https://scholar.google.fr/citations?user=sgoJus8AAAAJ&hl=fr
 
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-#rss-description: Estelle Guéville's website
-
-# --- General options --- #
-
-# Select which social network share links to show in posts
+# --- Sharing ---
 share-links-active:
   twitter: true
   facebook: false
   linkedin: true
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+# --- Excerpts / SEO bits ---
 excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
-
-# The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-# --- Colours / background image --- #
-
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
+# --- Theme colors ---
 navbar-col: "#000000"
 navbar-text-col: "#EAEAEA"
 navbar-border-col: "#DDDDDD"
@@ -146,88 +80,9 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#000000"
 footer-text-col: "#EAEAEA"
-footer-link-col: "##404040"
+footer-link-col: "##404040"   # (note: you have a double # here; keep if intentional)
 
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
-
-# Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
-
-# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
-
-# If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
-
-# --- Web Analytics Section --- #
-
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
-
-# Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Comments --- #
-
-# To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
-
-# To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
-
-# To use Utterances comments: (0) uncomment the following section, (1) fill in
-# "repository" (make sure the repository is public), (2) Enable Issues in your repository,
-# (3) Install the Utterances app in your repository https://github.com/apps/utterances
-# See more details about the parameters below at https://utteranc.es/
-#utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
-#  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
-
-# To use Staticman comments, uncomment the following section. You may leave the reCaptcha
-# section commented if you aren't using reCaptcha for spam protection.
-# Using Staticman requires advanced knowledge, please consult
-# https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
-# instructions. For any support with staticman please direct questions to staticman and
-# not to BeautifulJekyll.
-#staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
-#    siteKey  : # You need to apply for a site key on Google
-#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
-
-# --- Misc --- #
-
-# Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
-
-# Facebook App ID
-#fb_app_id: ""
-
-# --- You don't need to touch anything below here (but you can if you want) --- #
-
-# Output options (more information on Jekyll's site)
+# --- Build settings ---
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
@@ -237,23 +92,21 @@ paginate: 5
 kramdown:
   input: GFM
 
-# Default YAML values (more information on Jekyll's site)
+# --- Defaults ---
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
+      comments: true
+      social-share: true
+  - scope:
+      path: ""
     values:
       layout: "page"
 
-# Exclude these files from production site
+# --- Exclusions ---
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -264,6 +117,7 @@ exclude:
   - screenshot.png
   - docs/
 
+# --- Plugins (GitHub Pages friendly) ---
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

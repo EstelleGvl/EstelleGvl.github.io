@@ -4,7 +4,7 @@ lang: fr
 ref: cv
 title: <i>Curriculum Vitae</i>
 subtitle:
-permalink: /fr/CV/
+permalink: /fr/cv/
 ---
 
 <div style="text-align:center;">

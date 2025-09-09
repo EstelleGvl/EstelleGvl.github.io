@@ -3,7 +3,7 @@ layout: page
 lang: fr
 ref: conferences
 title: Conferences
-permalink: /fr/Conferences/
+permalink: /fr/conferences/
 ---
 
 ## Conference presentations

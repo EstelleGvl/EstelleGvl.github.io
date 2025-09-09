@@ -4,7 +4,7 @@ lang: en
 ref: cv
 title: <i>Curriculum Vitae</i>
 subtitle: 
-permalink: /pages/CV/
+permalink: /cv/
 ---
 
 <div style="text-align:center;">
