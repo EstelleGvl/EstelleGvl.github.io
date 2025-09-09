@@ -1,8 +1,10 @@
 ---
 layout: page
 lang: fr
+ref: cv
 title: <i>Curriculum Vitae</i>
-subtitle: 
+subtitle:
+permalink: /fr/CV/
 ---
 
 <div style="text-align:center;">
