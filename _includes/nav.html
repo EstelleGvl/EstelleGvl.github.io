@@ -10,44 +10,81 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  {% assign lang_prefix = page.lang == 'fr' ? '/fr' : '' %}
-  {% assign navset = page.lang == 'fr' and site.navbar-links-fr ? site.navbar-links-fr : site.navbar-links %}
+  {%- comment -%} Language-aware config (Liquid-safe) {%- endcomment -%}
+  {% if page.lang == 'fr' %}
+    {% assign lang_prefix = '/fr' %}
+    {% if site.navbar-links-fr %}
+      {% assign navset = site.navbar-links-fr %}
+    {% else %}
+      {% assign navset = site.navbar-links %}
+    {% endif %}
+  {% else %}
+    {% assign lang_prefix = '' %}
+    {% assign navset = site.navbar-links %}
+  {% endif %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
-  <ul class="navbar-nav ml-auto">
-    {%- for link in navset -%}
-      {%- assign text = link[0] -%}
-      {%- assign href = link[1] -%}
-      {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
+    <ul class="navbar-nav ml-auto">
+      {%- for link in navset -%}
+        {%- assign text = link[0] -%}
+        {%- assign href = link[1] -%}
 
-      {%- if href.first -%}
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
-            {%- for childlink in href -%}
-              {%- for linkparts in childlink -%}
-                {%- assign child_text = linkparts[0] -%}
-                {%- assign child_href = linkparts[1] -%}
-                {%- assign child_external = child_href contains '://' or child_href contains 'mailto:' or child_href contains 'tel:' or child_href startswith '#' -%}
-                <a class="dropdown-item"
-                   href="{% if child_external %}{{ child_href }}{% else %}{{ (lang_prefix | append: child_href) | replace: '//','/' | relative_url }}{% endif %}">
-                   {{ child_text }}
-                </a>
+        {%- comment -%}
+          Build a normalized internal path:
+          - If full external URL/mail/tel/hash → use as-is.
+          - Else accept:
+              "about"      -> /about/
+              "/about"     -> /about/
+              "/about/"    -> /about/
+              "CV"         -> /CV/
+        {%- endcomment -%}
+        {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
+
+        {%- capture normalized_href -%}
+          {%- if is_external -%}
+            {{ href }}
+          {%- else -%}
+            {%- assign p = href -%}
+            {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
+            {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
+            {%- if p | slice: -1,1 != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
+            {{ (lang_prefix | append: p) | replace: '//','/' | relative_url }}
+          {%- endif -%}
+        {%- endcapture -%}
+
+        {%- if href.first -%} {# dropdown block #}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
+              {%- for childlink in href -%}
+                {%- for linkparts in childlink -%}
+                  {%- assign ctext = linkparts[0] -%}
+                  {%- assign chref = linkparts[1] -%}
+                  {%- assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' -%}
+                  {%- capture c_norm -%}
+                    {%- if cext -%}
+                      {{ chref }}
+                    {%- else -%}
+                      {%- assign cp = chref -%}
+                      {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
+                      {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
+                      {%- if cp | slice: -1,1 != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
+                      {{ (lang_prefix | append: cp) | replace: '//','/' | relative_url }}
+                    {%- endif -%}
+                  {%- endcapture -%}
+                  <a class="dropdown-item" href="{{ c_norm | strip }}">{{ ctext }}</a>
+                {%- endfor -%}
               {%- endfor -%}
-            {%- endfor -%}
-          </div>
-        </li>
-      {%- else -%}
-        <li class="nav-item">
-          <a class="nav-link"
-             href="{% if is_external %}{{ href }}{% else %}{{ (lang_prefix | append: href) | replace: '//','/' | relative_url }}{% endif %}">
-             {{ text }}
-          </a>
-        </li>
-      {%- endif -%}
-    {%- endfor -%}
-  </ul>
-</div>
+            </div>
+          </li>
+        {%- else -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </div>
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
