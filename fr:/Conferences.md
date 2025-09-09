@@ -2,11 +2,11 @@
 layout: page
 lang: fr
 ref: conferences
-title: Conferences
+title: Conférences
 permalink: /fr/conferences/
 ---
 
-## Conference presentations
+## Conférences
 
 ### 2025
 - Meinecke, Christofer, Guéville, Estelle and Wrisley, David J. (2025). "Exploring the “Great Unseen” in Medieval Manuscripts: Instance-Level Labeling of Legacy Image Collections with Zero-Shot Models." DH 2025. Lisbon. 14-18 July 2025.
@@ -45,7 +45,7 @@ permalink: /fr/conferences/
 
 <br>
 
-## Invited talks
+## Conférences invitées
 
 ### 2025
 - Guéville, Estelle (2025). “Unknown Hands. The Scribal Gender Gap and Historical Exclusion.” Yale Medieval Lunch Colloquium, Yale University, 18 February 2025.
@@ -67,7 +67,7 @@ permalink: /fr/conferences/
 
 <br>
 
-## Roundtable Participations
+## Participations à des tables-rondes
 
 ### 2023
 - *Upcoming:* Gengnagel, Tessa, Guéville, Estelle, Harr, James B., Malcolm, Aylin. (2023). “Podcasts, Blogs, And Video Essays: Digital Medieval Studies For The Masses? - A Round Table Discussion” *International Medieval Congress* (IMC 2023), Institute for Medieval Studies at the University of Leeds. July 2023.
