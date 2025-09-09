@@ -10,17 +10,15 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  {%- comment -%} Language-aware config (no ternary) {%- endcomment -%}
+  {%- comment -%} Language-aware config (use bracket notation for hyphenated keys) {%- endcomment -%}
+  {% assign navset = site['navbar-links'] %}
   {% if page.lang == 'fr' %}
     {% assign lang_prefix = '/fr' %}
-    {% if site.navbar-links-fr %}
-      {% assign navset = site.navbar-links-fr %}
-    {% else %}
-      {% assign navset = site.navbar-links %}
+    {% if site['navbar-links-fr'] %}
+      {% assign navset = site['navbar-links-fr'] %}
     {% endif %}
   {% else %}
     {% assign lang_prefix = '' %}
-    {% assign navset = site.navbar-links %}
   {% endif %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
