@@ -21,6 +21,8 @@
     {% assign lang_prefix = '' %}
   {% endif %}
 
+  {% assign base = site.baseurl | default: '' %}
+
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
       {%- for link in navset -%}
@@ -37,34 +39,34 @@
                   {%- assign ctext = linkparts[0] -%}
                   {%- assign chref = linkparts[1] -%}
                   {%- assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' -%}
-                  {%- capture c_norm -%}
-                    {%- if cext -%}
-                      {{ chref }}
-                    {%- else -%}
-                      {%- assign cp = chref -%}
-                      {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
-                      {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
-                      {%- if cp | slice: -1,1 != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
-                      {{ (lang_prefix | append: cp) | replace: '//','/' | relative_url }}
-                    {%- endif -%}
-                  {%- endcapture -%}
+                {%- capture c_norm -%}
+                  {%- if cext -%}
+                    {{ chref }}
+                  {%- else -%}
+                    {%- assign cp = chref | strip -%}
+                    {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
+                    {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
+                    {%- if cp | slice: -1,1 != "/" and cp != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
+                    {{ base | append: lang_prefix | append: cp | replace: '//','/' }}
+                  {%- endif -%}
+                {%- endcapture -%}
                   <a class="dropdown-item" href="{{ c_norm | strip }}">{{ ctext }}</a>
                 {%- endfor -%}
               {%- endfor -%}
             </div>
           </li>
         {%- else -%}
-          {%- capture normalized_href -%}
-            {%- if is_external -%}
-              {{ href }}
-            {%- else -%}
-              {%- assign p = href -%}
-              {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
-              {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
-              {%- if p | slice: -1,1 != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
-              {{ (lang_prefix | append: p) | replace: '//','/' | relative_url }}
-            {%- endif -%}
-          {%- endcapture -%}
+            {%- capture normalized_href -%}
+              {%- if is_external -%}
+                {{ href }}
+              {%- else -%}
+                {%- assign p = href | strip -%}
+                {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
+                {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
+                {%- if p | slice: -1,1 != "/" and p != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
+                {{ base | append: lang_prefix | append: p | replace: '//','/' }}
+              {%- endif -%}
+            {%- endcapture -%}
           <li class="nav-item">
             <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
           </li>
