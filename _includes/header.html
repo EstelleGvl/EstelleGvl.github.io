@@ -21,6 +21,29 @@
 {% endif %}
 
 <header class="header-section {% if page.cover-img %}has-img{% endif %}">
+  {% assign current_lang = page.lang | default: 'en' %}
+  {% assign alt_lang = current_lang == 'fr' ? 'en' : 'fr' %}
+  {% assign alt_page = nil %}
+  {% if page.ref %}
+    {% assign alt_page = site.pages | where: 'ref', page.ref | where: 'lang', alt_lang | first %}
+  {% endif %}
+  <nav class="lang-switch" aria-label="Language">
+    {% if current_lang == 'fr' %}
+      {% if alt_page %}
+        <a href="{{ alt_page.url | relative_url }}">EN</a> | <strong>FR</strong>
+      {% else %}
+        <a href="{{ page.url | remove_first: '/fr' | relative_url }}">EN</a> | <strong>FR</strong>
+      {% endif %}
+    {% else %}
+      <strong>EN</strong> |
+      {% if alt_page %}
+        <a href="{{ alt_page.url | relative_url }}">FR</a>
+      {% else %}
+        <a href="{{ ('/fr' | append: page.url) | replace: '//', '/' | relative_url }}">FR</a>
+      {% endif %}
+    {% endif %}
+  </nav>
+
 {% if page.cover-img %}
 <div class="big-img intro-header">
   <div class="container-md">
@@ -94,8 +117,3 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
-
-<nav class="lang-switch">
-  <a href="{{ '/' | relative_url }}">EN</a> |
-  <a href="{{ '/fr/' | relative_url }}">FR</a>
-</nav>

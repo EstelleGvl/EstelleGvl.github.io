@@ -25,7 +25,7 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
-h1,h2, {
+h1,h2 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
@@ -1257,4 +1257,42 @@ footer a:hover {
 
 .lang-switch a:hover {
   text-decoration: underline;
+}
+
+/* --- Language switch inside the header --- */
+.header-section {                       /* your <header class="header-section ..."> */
+  position: relative;                   /* creates positioning context */
+  z-index: 10;                          /* above the banner image */
+}
+
+.header-section .lang-switch {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background: rgba(255,255,255,.85);    /* readable on photos */
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 999px;
+  padding: 6px 10px;
+  line-height: 1;
+}
+
+.header-section .lang-switch a {
+  color: #222;
+  text-decoration: none;
+  margin: 0 .25rem;
+}
+
+.header-section .lang-switch a:hover { text-decoration: underline; }
+
+/* When there is no big image header, keep it aligned nicely */
+.header-section:not(.has-img) .lang-switch {
+  top: 8px;
+  right: 12px;
+  background: transparent;
+  border: 0;
+  backdrop-filter: none;
 }
