@@ -23,7 +23,6 @@
     {% assign lang_prefix = '' %}
   {% endif %}
 
-  {% comment %} Base URL (should be "" on custom domain) {% endcomment %}
   {% assign base = site.baseurl | default: '' %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
@@ -44,17 +43,17 @@
                   {% assign chref = linkparts[1] %}
                   {% assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' %}
 
-                  {%- capture c_norm -%}
-                    {%- if cext -%}
+                  {% capture c_norm %}
+                    {% if cext %}
                       {{ chref }}
-                    {%- else -%}
-                      {%- assign cp = chref | strip -%}
-                      {%- if cp == "" -%}{% assign cp = "/" %}{%- endif -%}
-                      {%- if cp | slice: 0,1 != "/" -%}{% assign cp = "/" | append: cp %}{%- endif -%}
-                      {%- if cp | slice: -1,1 != "/" and cp != "/" -%}{% assign cp = cp | append: "/" %}{%- endif -%}
-                      {{ lang_prefix | append: cp | replace: '//','/' | relative_url }}
-                    {%- endif -%}
-                  {%- endcapture -%}
+                    {% else %}
+                      {% assign cp = chref | strip %}
+                      {% if cp == "" %}{% assign cp = "/" %}{% endif %}
+                      {% if cp | slice: 0,1 != "/" %}{% assign cp = "/" | append: cp %}{% endif %}
+                      {% if cp | slice: -1,1 != "/" and cp != "/" %}{% assign cp = cp | append: "/" %}{% endif %}
+                      {{ base | append: lang_prefix | append: cp | replace: '//','/' | absolute_url }}
+                    {% endif %}
+                  {% endcapture %}
 
                   <a class="dropdown-item" href="{{ c_norm | strip }}">{{ ctext }}</a>
                 {% endfor %}
@@ -64,17 +63,17 @@
 
         {% else %}
           {% comment %} Single item {% endcomment %}
-            {%- capture normalized_href -%}
-              {%- if is_external -%}
-                {{ href }}
-              {%- else -%}
-                {%- assign p = href | strip -%}
-                {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
-                {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
-                {%- if p | slice: -1,1 != "/" and p != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
-                {{ lang_prefix | append: p | replace: '//','/' | relative_url }}
-              {%- endif -%}
-            {%- endcapture -%}
+          {% capture normalized_href %}
+            {% if is_external %}
+              {{ href }}
+            {% else %}
+              {% assign p = href | strip %}
+              {% if p == "" %}{% assign p = "/" %}{% endif %}
+              {% if p | slice: 0,1 != "/" %}{% assign p = "/" | append: p %}{% endif %}
+              {% if p | slice: -1,1 != "/" and p != "/" %}{% assign p = p | append: "/" %}{% endif %}
+              {{ base | append: lang_prefix | append: p | replace: '//','/' | absolute_url }}
+            {% endif %}
+          {% endcapture %}
 
           <li class="nav-item">
             <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
@@ -82,16 +81,16 @@
         {% endif %}
       {% endfor %}
 
-      {% comment %} Language switch (always clickable) {% endcomment %}
+      {% comment %} Language switch (always absolute) {% endcomment %}
       <li class="nav-item">
         {% assign current_lang = page.lang | default: 'en' %}
         {% if current_lang == 'fr' %}
           {% assign en_url = page.url | remove_first: '/fr' %}
-          <span class="nav-link"><a href="{{ base | append: en_url | replace: '//','/' }}">EN</a> | <strong>FR</strong></span>
+          <span class="nav-link"><a href="{{ base | append: en_url | replace: '//','/' | absolute_url }}">EN</a> | <strong>FR</strong></span>
         {% else %}
           {% assign en_url = page.url %}
           {% assign fr_url = '/fr' | append: en_url | replace: '//','/' %}
-          <span class="nav-link"><strong>EN</strong> | <a href="{{ base | append: fr_url | replace: '//','/' }}">FR</a></span>
+          <span class="nav-link"><strong>EN</strong> | <a href="{{ base | append: fr_url | replace: '//','/' | absolute_url }}">FR</a></span>
         {% endif %}
       </li>
     </ul>

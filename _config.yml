@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+url: "https://estellegueville.com"   # required for absolute_url to work
+baseurl: ""                          # empty for a custom domain
+
 #Name of website
 title: Estelle Guéville, Yale University
 
