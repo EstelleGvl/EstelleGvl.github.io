@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
   {% if site.title-img %}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}">
+    <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}/">
       <img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url }}"/>
     </a>
   {% elsif site.title %}
-    <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ site.url }}/">{{ site.title }}</a>
   {% endif %}
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,8 +22,6 @@
   {% else %}
     {% assign lang_prefix = '' %}
   {% endif %}
-
-  {% assign base = site.baseurl | default: '' %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
@@ -43,19 +41,15 @@
                   {% assign chref = linkparts[1] %}
                   {% assign cext = chref contains '://' or chref contains 'mailto:' or chref contains 'tel:' or chref startswith '#' %}
 
-                  {% capture c_norm %}
-                    {% if cext %}
-                      {{ chref }}
-                    {% else %}
-                      {% assign cp = chref | strip %}
-                      {% if cp == "" %}{% assign cp = "/" %}{% endif %}
-                      {% if cp | slice: 0,1 != "/" %}{% assign cp = "/" | append: cp %}{% endif %}
-                      {% if cp | slice: -1,1 != "/" and cp != "/" %}{% assign cp = cp | append: "/" %}{% endif %}
-                      {{ base | append: lang_prefix | append: cp | replace: '//','/' | absolute_url }}
-                    {% endif %}
-                  {% endcapture %}
-
-                  <a class="dropdown-item" href="{{ c_norm | strip }}">{{ ctext }}</a>
+                  {% if cext %}
+                    <a class="dropdown-item" href="{{ chref }}">{{ ctext }}</a>
+                  {% else %}
+                    {% assign cp = chref | strip %}
+                    {% if cp == "" %}{% assign cp = "/" %}{% endif %}
+                    {% if cp | slice: 0,1 != "/" %}{% assign cp = "/" | append: cp %}{% endif %}
+                    {% if cp | slice: -1,1 != "/" and cp != "/" %}{% assign cp = cp | append: "/" %}{% endif %}
+                    <a class="dropdown-item" href="{{ site.url }}{{ lang_prefix }}{{ cp | replace: '//','/' }}">{{ ctext }}</a>
+                  {% endif %}
                 {% endfor %}
               {% endfor %}
             </div>
@@ -63,34 +57,34 @@
 
         {% else %}
           {% comment %} Single item {% endcomment %}
-          {% capture normalized_href %}
-            {% if is_external %}
-              {{ href }}
-            {% else %}
-              {% assign p = href | strip %}
-              {% if p == "" %}{% assign p = "/" %}{% endif %}
-              {% if p | slice: 0,1 != "/" %}{% assign p = "/" | append: p %}{% endif %}
-              {% if p | slice: -1,1 != "/" and p != "/" %}{% assign p = p | append: "/" %}{% endif %}
-              {{ base | append: lang_prefix | append: p | replace: '//','/' | absolute_url }}
-            {% endif %}
-          {% endcapture %}
-
-          <li class="nav-item">
-            <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
-          </li>
+          {% if is_external %}
+            <li class="nav-item"><a class="nav-link" href="{{ href }}">{{ text }}</a></li>
+          {% else %}
+            {% assign p = href | strip %}
+            {% if p == "" %}{% assign p = "/" %}{% endif %}
+            {% if p | slice: 0,1 != "/" %}{% assign p = "/" | append: p %}{% endif %}
+            {% if p | slice: -1,1 != "/" and p != "/" %}{% assign p = p | append: "/" %}{% endif %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.url }}{{ lang_prefix }}{{ p | replace: '//','/' }}">{{ text }}</a>
+            </li>
+          {% endif %}
         {% endif %}
       {% endfor %}
 
-      {% comment %} Language switch (always absolute) {% endcomment %}
+      {% comment %} Language switch (absolute) {% endcomment %}
       <li class="nav-item">
         {% assign current_lang = page.lang | default: 'en' %}
         {% if current_lang == 'fr' %}
           {% assign en_url = page.url | remove_first: '/fr' %}
-          <span class="nav-link"><a href="{{ base | append: en_url | replace: '//','/' | absolute_url }}">EN</a> | <strong>FR</strong></span>
+          <span class="nav-link">
+            <a href="{{ site.url }}{{ en_url | replace: '//','/' }}">EN</a> | <strong>FR</strong>
+          </span>
         {% else %}
           {% assign en_url = page.url %}
           {% assign fr_url = '/fr' | append: en_url | replace: '//','/' %}
-          <span class="nav-link"><strong>EN</strong> | <a href="{{ base | append: fr_url | replace: '//','/' | absolute_url }}">FR</a></span>
+          <span class="nav-link">
+            <strong>EN</strong> | <a href="{{ site.url }}{{ fr_url }}">FR</a>
+          </span>
         {% endif %}
       </li>
     </ul>
@@ -105,7 +99,7 @@
   {% if site.avatar and page.show-avatar != false %}
     <div class="avatar-container">
       <div class="avatar-img-border">
-        <a href="{{ '' | absolute_url }}">
+        <a href="{{ site.url }}/">
           <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
         </a>
       </div>
