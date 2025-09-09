@@ -36,3 +36,37 @@
     </div>
   </div>
 </footer>
+
+<script>
+/* Normalize navbar links to absolute URLs so they never nest under the current path. */
+(function () {
+  var domain = "{{ site.url | default: '' }}";
+  if (!domain) { try { domain = window.location.origin; } catch (e) { domain = ''; } }
+
+  // Language prefix based on current page.lang (Liquid inserts it at build time).
+  var langPrefix = "{% if page.lang == 'fr' %}/fr{% else %}{% endif %}";
+
+  // Which containers to sanitize (navbar + any language switch).
+  var scopes = document.querySelectorAll('.navbar, .lang-switch');
+
+  scopes.forEach(function(scope){
+    scope.querySelectorAll('a[href]').forEach(function(a){
+      var h = a.getAttribute('href');
+      if (!h) return;
+
+      // Skip external links, anchors, mailto/tel, and already-root-absolute.
+      if (/^(?:https?:)?\/\//i.test(h) || h[0] === '/' || h[0] === '#' || /^mailto:|^tel:/i.test(h)) return;
+
+      // Turn "contact" or "contact/" into "/contact/"
+      if (h[h.length - 1] !== '/') h += '/';
+      if (h[0] !== '/') h = '/' + h;
+
+      var abs = (domain + langPrefix + h)
+        .replace(/([^:]\/)\/+/g, '$1')   // collapse doubles
+        .replace(/^https:\/\//, 'https://');
+
+      a.setAttribute('href', abs);
+    });
+  });
+})();
+</script>
