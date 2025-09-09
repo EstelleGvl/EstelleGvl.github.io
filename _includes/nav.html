@@ -10,7 +10,7 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  {%- comment -%} Language-aware config (Liquid-safe) {%- endcomment -%}
+  {%- comment -%} Language-aware config (no ternary) {%- endcomment -%}
   {% if page.lang == 'fr' %}
     {% assign lang_prefix = '/fr' %}
     {% if site.navbar-links-fr %}
@@ -28,31 +28,9 @@
       {%- for link in navset -%}
         {%- assign text = link[0] -%}
         {%- assign href = link[1] -%}
-
-        {%- comment -%}
-          Build a normalized internal path:
-          - If full external URL/mail/tel/hash → use as-is.
-          - Else accept:
-              "about"      -> /about/
-              "/about"     -> /about/
-              "/about/"    -> /about/
-              "CV"         -> /CV/
-        {%- endcomment -%}
         {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
 
-        {%- capture normalized_href -%}
-          {%- if is_external -%}
-            {{ href }}
-          {%- else -%}
-            {%- assign p = href -%}
-            {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
-            {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
-            {%- if p | slice: -1,1 != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
-            {{ (lang_prefix | append: p) | replace: '//','/' | relative_url }}
-          {%- endif -%}
-        {%- endcapture -%}
-
-        {%- if href.first -%} {# dropdown block #}
+        {%- if href.first -%}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
@@ -78,11 +56,55 @@
             </div>
           </li>
         {%- else -%}
+          {%- capture normalized_href -%}
+            {%- if is_external -%}
+              {{ href }}
+            {%- else -%}
+              {%- assign p = href -%}
+              {%- if p == "" -%}{% assign p = "/" %}{%- endif -%}
+              {%- if p | slice: 0,1 != "/" -%}{% assign p = "/" | append: p %}{%- endif -%}
+              {%- if p | slice: -1,1 != "/" -%}{% assign p = p | append: "/" %}{%- endif -%}
+              {{ (lang_prefix | append: p) | replace: '//','/' | relative_url }}
+            {%- endif -%}
+          {%- endcapture -%}
           <li class="nav-item">
             <a class="nav-link" href="{{ normalized_href | strip }}">{{ text }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
+
+      {%- comment -%} Language switcher placed as a nav item (always clickable) {%- endcomment -%}
+      <li class="nav-item">
+        {% assign current_lang = page.lang | default: 'en' %}
+        {% assign alt_lang = current_lang == 'fr' | default: false %}
+        {% if current_lang == 'fr' %}
+          {% assign alt_code = 'en' %}
+        {% else %}
+          {% assign alt_code = 'fr' %}
+        {% endif %}
+
+        {% assign alt_page = nil %}
+        {% if page.ref %}
+          {% assign alt_page = site.pages | where: 'ref', page.ref | where: 'lang', alt_code | first %}
+        {% endif %}
+
+        <span class="nav-link">
+          {% if current_lang == 'fr' %}
+            {% if alt_page %}
+              <a href="{{ alt_page.url | relative_url }}">EN</a> | <strong>FR</strong>
+            {% else %}
+              <a href="{{ page.url | remove_first: '/fr' | relative_url }}">EN</a> | <strong>FR</strong>
+            {% endif %}
+          {% else %}
+            <strong>EN</strong> |
+            {% if alt_page %}
+              <a href="{{ alt_page.url | relative_url }}">FR</a>
+            {% else %}
+              <a href="{{ ('/fr' | append: page.url) | replace: '//','/' | relative_url }}">FR</a>
+            {% endif %}
+          {% endif %}
+        </span>
+      </li>
     </ul>
   </div>
 
@@ -101,5 +123,4 @@
       </div>
     </div>
   {% endif %}
-
 </nav>

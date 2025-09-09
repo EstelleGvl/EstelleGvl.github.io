@@ -1296,3 +1296,6 @@ footer a:hover {
   border: 0;
   backdrop-filter: none;
 }
+
+.navbar .nav-link a { text-decoration: none; }
+.navbar .nav-link a:hover { text-decoration: underline; }
