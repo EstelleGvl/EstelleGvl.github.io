@@ -146,4 +146,6 @@
     {% endfor %}
   {% endif %}
 
+  {%- comment -%} Fallback stylesheet include for personal site {%- endcomment -%}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
