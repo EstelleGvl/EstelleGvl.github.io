@@ -1,5 +1,6 @@
 ---
 layout: home
+lang: fr
 title: Estelle Guéville
 subtitle: Historian of medieval manuscripts, exploring female scribes, book culture, and digital humanities.
 ---

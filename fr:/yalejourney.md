@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: fr
 title: My Journey at Yale
 ---
 

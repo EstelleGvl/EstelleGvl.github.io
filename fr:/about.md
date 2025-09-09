@@ -1,9 +1,12 @@
 ---
 layout: page
+lang: fr
 title: Research Interests
+permalink: /fr/about/
 ---
 
-# Medieval Manuscripts
+# Manuscrit Médiévaux
+
 At the heart of my research lie medieval manuscripts, which I study from codicological, textual, and visual perspectives. I am especially interested in scribal practices, attribution, and copy, as well as the relationship between text and image.
 
 My earliest master's research, a monograph on a single manuscript at the Bibliothèque nationale de France, sparked a long-term interest in codicology. Since then, I have published the catalogue of medieval manuscripts in the Louvre Abu Dhabi collection and contributed to new acquisitions.

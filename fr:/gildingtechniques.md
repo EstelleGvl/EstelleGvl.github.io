@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: fr
 title: Understanding Medieval Manuscripts Gilding Techniques
 ---
 
