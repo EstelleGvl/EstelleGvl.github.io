@@ -1,7 +1,8 @@
 ---
 layout: page
 lang: fr
-title: Research Interests
+ref: about
+title: Intérêts de recherche
 permalink: /fr/about/
 ---
 

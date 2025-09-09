@@ -148,4 +148,11 @@
 
   {%- comment -%} Fallback stylesheet include for personal site {%- endcomment -%}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  {% if page.ref %}
+    {% assign siblings = site.pages | where: 'ref', page.ref %}
+    {% for p in siblings %}
+      <link rel="alternate" href="{{ p.url | absolute_url }}" hreflang="{{ p.lang }}">
+    {% endfor %}
+  {% endif %}
 </head>

@@ -11,29 +11,43 @@
   </button>
 
   {% assign lang_prefix = page.lang == 'fr' ? '/fr' : '' %}
+  {% assign navset = page.lang == 'fr' and site.navbar-links-fr ? site.navbar-links-fr : site.navbar-links %}
 
   <div class="collapse navbar-collapse" id="main-navbar">
-    <ul class="navbar-nav ml-auto">
-      {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ (lang_prefix | append: linkparts[1]) | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ (lang_prefix | append: link[1]) | relative_url }}">{{ link[0] }}</a>
-          </li>
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
-  </div>
+  <ul class="navbar-nav ml-auto">
+    {%- for link in navset -%}
+      {%- assign text = link[0] -%}
+      {%- assign href = link[1] -%}
+      {%- assign is_external = href contains '://' or href contains 'mailto:' or href contains 'tel:' or href startswith '#' -%}
+
+      {%- if href.first -%}
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ text }}</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown-{{ forloop.index }}">
+            {%- for childlink in href -%}
+              {%- for linkparts in childlink -%}
+                {%- assign child_text = linkparts[0] -%}
+                {%- assign child_href = linkparts[1] -%}
+                {%- assign child_external = child_href contains '://' or child_href contains 'mailto:' or child_href contains 'tel:' or child_href startswith '#' -%}
+                <a class="dropdown-item"
+                   href="{% if child_external %}{{ child_href }}{% else %}{{ (lang_prefix | append: child_href) | replace: '//','/' | relative_url }}{% endif %}">
+                   {{ child_text }}
+                </a>
+              {%- endfor -%}
+            {%- endfor -%}
+          </div>
+        </li>
+      {%- else -%}
+        <li class="nav-item">
+          <a class="nav-link"
+             href="{% if is_external %}{{ href }}{% else %}{{ (lang_prefix | append: href) | replace: '//','/' | relative_url }}{% endif %}">
+             {{ text }}
+          </a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+</div>
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}

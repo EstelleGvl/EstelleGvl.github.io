@@ -39,7 +39,7 @@
       {% if alt_page %}
         <a href="{{ alt_page.url | relative_url }}">FR</a>
       {% else %}
-        <a href="{{ ('/fr' | append: page.url) | replace: '//', '/' | relative_url }}">FR</a>
+        <a href="{{ ('/fr' | append: page.url) | replace: '//','/' | relative_url }}">FR</a>
       {% endif %}
     {% endif %}
   </nav>
