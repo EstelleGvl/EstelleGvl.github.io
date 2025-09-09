@@ -46,7 +46,7 @@ navbar-links-fr:
 paginate_path: "/blog/page:num/"
 
 # --- Avatar / Logo ---
-avatar: "/assets/img/2022_Identity_EGE.jpg/"
+avatar: "/assets/img/2022_Identity_EGE.jpg"
 round-avatar: true
 # title-img: /path/to/image   # (optional)
 
