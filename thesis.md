@@ -17,7 +17,7 @@ Outside the classroom, I have been active in Yale’s academic and community lif
 # Dissertation
 *“Qui scripsit scribat semper.” Female Scribal Practices in Medieval Europe*
 
-My dissertation is a recovery project devoted to identifying and contextualizing the work of female scribes in Europe before 1600. For centuries, the contributions of women to book production have been understudied or overlooked. My project seeks to change that by combining traditional codicology and paleography with computational methods such as handwritten text recognition, stylometry, and data-driven analysis.
+My dissertation is a [recovery project](https://estellegueville.com/unknownhands/) devoted to identifying and contextualizing the work of female scribes in Europe before 1600. For centuries, the contributions of women to book production have been understudied or overlooked. My project seeks to change that by combining traditional codicology and paleography with computational methods such as handwritten text recognition, stylometry, and data-driven analysis.
 
 So far, I have recovered evidence of over 1,000 women scribes active across Europe, with many more to come. By building a large open-access dataset, I aim not only to quantify and map women’s involvement in manuscript culture but also to analyze their working environments, education, collaborations, and the types of texts they copied. My broader goal is to reshape how we understand the economy of manuscript production, literacy, and authorship in the Middle Ages.
 
