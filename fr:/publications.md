@@ -11,7 +11,7 @@ permalink: /fr/publications/
 <div class="pub-list">
 
 <section class="pub-card">
-  <img src="/assets/img/medievallunch.jpg" alt="Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.">
+  <img src="/assets/img/Medievalmss_Computationalhumanities.jpg" alt="Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.">
   <div class="pub-body">
     <h2><i>Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible.”</i></h2>
     <h3>Arc Humanities Press, 2025.</h3>
