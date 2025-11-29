@@ -9,9 +9,9 @@ author: Estelle Guéville
 # --- Navbar (English) ---
 navbar-links:
   About Me: 
-    - My Research Interests: "about"
-    - My Career in GLAM: "glam"
-    - My PhD: "thesis"
+    - Research Interests: "about"
+    - Career in GLAM: "glam"
+    - PhD: "thesis"
   Research and DH:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Medieval Distant Viewing: "medievaldistantviewing"
@@ -27,9 +27,9 @@ navbar-links:
 # --- Navbar (French) ---
 navbar-links-fr:
   À propos de moi:
-    - Mes axes de recherche: "about"
-    - Mon parcours GLAM: "glam"
-    - Ma thèse: "thesis"
+    - Axes de recherche: "about"
+    - Parcours GLAM: "glam"
+    - Thèse: "thesis"
   Recherches:
     - The Paris Bible Project: "https://parisbible.github.io/"
     - Medieval Distant Viewing: "medievaldistantviewing"

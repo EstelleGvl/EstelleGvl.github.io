@@ -10,7 +10,7 @@ permalink: /fr/about/
 
 Au cœur de mes recherches se trouvent les manuscrits médiévaux, que j’étudie sous les angles codicologique, textuel et visuel. Je m’intéresse particulièrement aux pratiques scripturales, à l’attribution et à la copie, ainsi qu’aux relations entre texte et image.
 
-Mes premiers travaux de master, une monographie consacrée à un manuscrit de la Bibliothèque nationale de France, ont suscité un intérêt durable pour la codicologie. Depuis, j’ai publié le catalogue des manuscrits médiévaux de la collection du Louvre Abu Dhabi et ai contribué à de nouvelles acquisitions.
+Mes premiers travaux de master, une monographie consacrée à un manuscrit de la Bibliothèque nationale de France, ont suscité un intérêt durable pour la codicologie, la paléographie et la philologie. Depuis, j’ai publié les manuscrits médiévaux de la collection du Louvre Abu Dhabi et ai contribué à de nouvelles acquisitions.
 
 J’ai également dirigé ou participé à plusieurs projets portant sur les manuscrits :
 - **["Paris Bible Project"](https://parisbible.github.io/)** : analyse des abréviations et des formes de lettres comme marqueurs de pratiques scribales.  
@@ -21,7 +21,7 @@ J’ai également dirigé ou participé à plusieurs projets portant sur les man
 
 Ma thèse porte sur les femmes en tant que copistes au long Moyen Âge (avant 1600) et leur rôle dans l’économie de la production manuscrite, aussi bien dans les *scriptoria* monastiques que dans les ateliers urbains.
 
-À ce jour, j’ai identifié plus d’un millier de femmes copistes et je construis un vaste jeu de données ouvert afin de rendre ces informations accessibles à l’ensemble de la communauté scientifique. Mon approche combine la codicologie traditionnelle et les méthodes computationnelles pour quantifier, cartographier et contextualiser les contributions des femmes, remettant ainsi en question des présupposés anciens sur la littératie, l’auctorialité et la production culturelle.  
+À ce jour, j’ai identifié plus d’un millier de femmes copistes et je construis un vaste jeu de données ouvert afin de rendre ces informations accessibles à l’ensemble de la communauté scientifique. Mon approche combine la codicologie, la paléographie et la philologie traditionnelles ainsi que les méthodes computationnelles pour quantifier, cartographier et contextualiser les contributions des femmes, remettant ainsi en question des présupposés anciens sur la littératie, l’auctorialité et la production culturelle.  
 
 # Humanités numériques
 
