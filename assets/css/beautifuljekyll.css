@@ -1017,7 +1017,7 @@ pre {
 }
 
 .pub-card {
-  --accent: hsl(260 70% 55%);              /* default fallback */
+/*  --accent: hsl(260 70% 55%);              /* default fallback */
   border: 1px solid #e6e6e6;
   border-left: 10px solid var(--accent);   /* colored separator */
   border-radius: 14px;
@@ -1029,11 +1029,11 @@ pre {
 }
 
 /* Alternate accent colors automatically */
-.pub-card:nth-child(5n+1){ --accent: hsl(260 70% 55%);} /* violet */
-.pub-card:nth-child(5n+2){ --accent: hsl(200 70% 45%);} /* blue */
-.pub-card:nth-child(5n+3){ --accent: hsl(160 60% 40%);} /* teal */
-.pub-card:nth-child(5n+4){ --accent: hsl(30 80% 55%);}  /* orange */
-.pub-card:nth-child(5n+5){ --accent: hsl(340 70% 50%);} /* magenta */
+/* .pub-card:nth-child(5n+1){ --accent: hsl(260 70% 55%);} /* violet */
+/*.pub-card:nth-child(5n+2){ --accent: hsl(200 70% 45%);} /* blue */
+/*.pub-card:nth-child(5n+3){ --accent: hsl(160 60% 40%);} /* teal */
+/*.pub-card:nth-child(5n+4){ --accent: hsl(30 80% 55%);}  /* orange */
+/*.pub-card:nth-child(5n+5){ --accent: hsl(340 70% 50%);} /* magenta */
 
 .pub-img {
   width: 100%;
