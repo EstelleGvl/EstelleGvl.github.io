@@ -18,6 +18,9 @@ permalink: /publications/
     <p class="pub-abstract">
         <h4>This book examines the transformations in medieval studies–and the humanities more broadly–enabled by decades of digitization and advances in machine learning. Centring on the Paris Bible, a widely copied thirteenth- and fourteenth-century manuscript genre, we show how automatic transcription produces scribal data at a scale once inaccessible, and how automation can support new approaches to localizing, dating, and contextualizing manuscripts. We argue that applying artificial intelligence to medieval studies requires re-centring expert human intelligence within computational systems. Beyond this case study, the book models how digital medieval studies can rethink interpretation, highlighting both the promise and risks of machine learning in manuscript research, and uses bibliometrics to trace the field’s move toward co-authorship and the infrastructures needed for collaborative scholarship.</h4>
     </p>
+    <p class="pub-links">
+        <a class="btn btn-primary" href="https://www.arc-humanities.org/9781802702439/medieval-manuscripts-and-the-computational-humanities/" target="_blank" rel="noopener">Read →</a>
+      </p>
   </div>
 </section>
 
