@@ -8,6 +8,13 @@ permalink: /conferences/
 
 ## Conference presentations
 
+### 2026
+- Meinecke, Christofer, Estelle Guéville, and David J. Wrisley. “Which LLM Understood the Assignment?: Expanding HTR-Created Latin Transcriptions for Downstream Computational Tasks.” *DH 2026*, Daejeon, 27-31 July 2026.
+- Guéville, Estelle. “Networks of Manuscript Production: Mapping Female Scribes and their Texts in Medieval Europe.” *Historical Network Research (HNR) Conference 2026*, University of Turin, July 20-22, 2026.
+- Guéville, Estelle. “The Scribal Unit: A New Descriptive Layer for Medieval Manuscripts.” *International Medieval Congress*, University of Leeds, July 2026.
+- Guéville, Estelle, “Unknown Hands : acquérir, structurer et interroger les données de la production scribale féminine pré-moderne,” *Humanistica 2026*, 20-22 May 2026.
+- Guéville, Estelle. “Unknown Hands: A Digital Resource for the Study of Female Scribal Production” *International Congress on Medieval Studies*, Medieval Institute, Western Michigan University, Kalamazoo, May 2026.
+
 ### 2025
 - Meinecke, Christofer, Guéville, Estelle and Wrisley, David J. (2025). "Exploring the “Great Unseen” in Medieval Manuscripts: Instance-Level Labeling of Legacy Image Collections with Zero-Shot Models." DH 2025. Lisbon. 14-18 July 2025.
 - Guéville, Estelle and Wrisley, David J. (2025). "Co-Authorship, Collaboration and Community in Medieval Studies (1930-2025): Insights from the Science of Science." Association for Computers and the Humanities (ACH) 2025. 11-13 June 2025. 
@@ -68,6 +75,10 @@ permalink: /conferences/
 <br>
 
 ## Roundtable Participations
+
+### 2026
+- Guéville, Estelle. “Unknown Hands and the Digital Recovery of Female Scribes.” Paper presented as part of the roundtable “New Possibilities and Directions in Digital Medieval Studies” at the *International Congress on Medieval Studies*, Medieval Institute, Western Michigan University, Kalamazoo, May 2026.
+
 
 ### 2023
 - *Upcoming:* Gengnagel, Tessa, Guéville, Estelle, Harr, James B., Malcolm, Aylin. (2023). “Podcasts, Blogs, And Video Essays: Digital Medieval Studies For The Masses? - A Round Table Discussion” *International Medieval Congress* (IMC 2023), Institute for Medieval Studies at the University of Leeds. July 2023.
