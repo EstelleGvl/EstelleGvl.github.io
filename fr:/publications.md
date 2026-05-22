@@ -36,6 +36,20 @@ permalink: /fr/publications/
 <div class="pub-list">
 
   <!-- Publication 1 -->
+    <section class="pub-card">
+    <img src="/assets/img/ACH2026.jpg" alt="Digital Studies in Language and Literature, 2024.">
+    <div class="pub-body">
+      <h2>Unknown Hands : acquérir, structurer et interroger les données de la production des femmes copistes avant 1600</h2>
+      <h3><i>Anthology of Computers and the Humanities</i> 2026.</h3>
+      <p class="pub-abstract">
+              <h4>This article presents Unknown Hands, an initiative addressing the systemic invisibility of medieval female scribes in Western Europe. It draws on a dataset comprising more than 1200 identified female scribes and 1925 scribal units in approximately 1300 manuscripts, in order to model, analyze, and visualize female manuscript production in Europe before 1600. Built on a relational data infrastructure developed using Heurist, the public interface integrates structured metadata, digital reproductions, and HTR-generated transcriptions, enabling both humanistic and computational analysis. The project thus highlights the challenges involved in identifying female scribes, shaped by historical biases and archival silences, and proposes a qualitative, quantitative, and relational exploration of this production. The results notably reveal uneven patterns in geographical distribution, chronological dynamics, and institutional collaboration networks.</h4>
+      </p>
+      <p class="pub-links">
+        <a class="btn btn-primary" href="https://anthology.ach.org/volumes/vol0004/unknown-hands-acqu-rir-structurer-et-interroger-les-donn-es/" target="_blank" rel="noopener">Read →</a>
+      </p>
+    </div>
+  </section>
+  
   <section class="pub-card">
     <img src="/assets/img/DigitalStudiesinLanguageandLiterature.jpg" alt="Digital Studies in Language and Literature, 2024.">
     <div class="pub-body">
