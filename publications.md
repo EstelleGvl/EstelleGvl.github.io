@@ -37,7 +37,7 @@ permalink: /publications/
 
   <!-- Publication 1 -->
   <section class="pub-card">
-    <img src="/assets/img/ACH2026.jpg" alt="Digital Studies in Language and Literature, 2024.">
+    <img src="/assets/img/ACH2026.png" alt="Digital Studies in Language and Literature, 2024.">
     <div class="pub-body">
       <h2>Unknown Hands : acquérir, structurer et interroger les données de la production des femmes copistes avant 1600</h2>
       <h3><i>Anthology of Computers and the Humanities</i> 2026.</h3>
