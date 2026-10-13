@@ -29,7 +29,7 @@ Mon entrée dans les humanités numériques fut presque accidentelle. En 2019, a
 
 Aujourd’hui, j’utilise des méthodes computationnelles pour enrichir l’étude des manuscrits et de l’histoire culturelle. Mes travaux incluent l’analyse textuelle (distant reading, reconnaissance de l’écriture manuscrite, stylométrie), l’analyse visuelle (réseaux neuronaux, traitement d’images, détection de formes) et les approches spatiales (SIG, cartographie). Ces outils me permettent de poser, à grande échelle, des questions qui étaient auparavant impossibles à explorer.
 
-J’ai publié dans plusieurs revues à comité de lecture, et mon ouvrage coécrit avec le Dr Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible”*, est sous contrat avec Arc Humanities Press. Ma thèse, vaste projet de redécouverte des femmes copistes, s’appuie à la fois sur l’analyse qualitative et quantitative, combinée à des approches computationnelles.  
+J’ai publié dans plusieurs revues à comité de lecture, et mon ouvrage coécrit avec le Dr Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible”*, est paru chez Arc Humanities Press en 2026 et est disponible en [libre accès](https://www.arc-humanities.org/9781802702439/medieval-manuscripts-and-the-computational-humanities/). Ma thèse, vaste projet de redécouverte des femmes copistes, s’appuie à la fois sur l’analyse qualitative et quantitative, combinée à des approches computationnelles.
 
 # Échanges culturels et intellectuels, histoire globale
 

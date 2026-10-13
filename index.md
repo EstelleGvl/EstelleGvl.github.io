@@ -19,4 +19,11 @@ I am currently a <a href="https://medieval.yale.edu/people/estelle-gu-ville">PhD
 
 This site brings together my research, projects, and publications as well as a glimpse into my career in museums, public humanities, and digital scholarship.
 
+## Recent highlights — 2026
+
+- **Mellon/ACLS Dissertation Innovation Fellowship (2026–2027).** This fellowship supports my dissertation research on female scribes and [Unknown Hands](https://estellegueville.com/unknownhands/). [Yale announcement](https://medieval.yale.edu/posts/2026-04-29-estelle-gueville-among-three-phd-students-named-2026-mellonacls-dissertation).
+- **ADHO leadership.** Deputy Conference Officer (2026–2027), followed by Conference Officer (2027–2029) for the Alliance of Digital Humanities Organizations, and Vice-Chair of its AudioVisual Material in Digital Humanities (AVinDH) special interest group since 2026.
+- **New book.** Co-authored with David Joseph Wrisley, [*Medieval Manuscripts and the Computational Humanities: Big Data, Scribes, and the “Paris Bible”*](https://www.arc-humanities.org/9781802702439/medieval-manuscripts-and-the-computational-humanities/) was published by Arc Humanities Press in February 2026 and is available open access.
+- **Award and new publications.** My Unknown Hands presentation received the Early-Career Scholar Best Paper Award at Humanistica 2026. See [Publications](/publications/) for the published article and forthcoming work.
+
 <br>

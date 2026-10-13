@@ -9,10 +9,11 @@ permalink: /conferences/
 ## Conference presentations
 
 ### 2026
+- Guéville, Estelle. “Who Wrote What? HTR and Stylometric Approaches to Scribal Attribution in Christine de Pizan’s Workshop.” *Transkribus User Conference 2026*, University of Passau, 21–23 September 2026.
 - Meinecke, Christofer, Estelle Guéville, and David J. Wrisley. “Which LLM Understood the Assignment?: Expanding HTR-Created Latin Transcriptions for Downstream Computational Tasks.” *DH 2026*, Daejeon, 27-31 July 2026.
 - Guéville, Estelle. “Networks of Manuscript Production: Mapping Female Scribes and their Texts in Medieval Europe.” *Historical Network Research (HNR) Conference 2026*, University of Turin, July 20-22, 2026.
 - Guéville, Estelle. “The Scribal Unit: A New Descriptive Layer for Medieval Manuscripts.” *International Medieval Congress*, University of Leeds, July 2026.
-- Guéville, Estelle, “Unknown Hands : acquérir, structurer et interroger les données de la production scribale féminine pré-moderne,” *Humanistica 2026*, 20-22 May 2026.
+- Guéville, Estelle, “Unknown Hands : acquérir, structurer et interroger les données de la production scribale féminine pré-moderne,” *Humanistica 2026*, 20-22 May 2026. **Early-Career Scholar Best Paper Award.**
 - Guéville, Estelle. “Unknown Hands: A Digital Resource for the Study of Female Scribal Production” *International Congress on Medieval Studies*, Medieval Institute, Western Michigan University, Kalamazoo, May 2026.
 
 ### 2025

@@ -11,7 +11,7 @@ At the heart of my research lie medieval manuscripts, which I study from codicol
 
 My earliest master's research, a monograph on a single manuscript at the Bibliothèque nationale de France, sparked a long-term interest in codicology, palaeography, and philology. Since then, I have published the medieval manuscripts in the Louvre Abu Dhabi collection and contributed to new acquisitions.
 
-I have also lead and contributed to several projects focusing on manuscripts:
+I have also led and contributed to several projects focusing on manuscripts:
 - **["Paris Bible Project"](https://parisbible.github.io/):** examining abbreviations and letterforms as markers of scribal practice. 
 - **["Medieval Distant Viewing"](https://estellegvl.github.io/medievaldistantviewing/):** using image analysis (object detection, image and instance-level annotation, colour and intensity analysis) to uncover visual patterns across corpora of manuscripts.  
 - **["Understanding Medieval Manuscripts Gilding Techniques"](https://estellegvl.github.io/gildingtechniques/)** studying medieval illumination from a conservation and technical perspective.   
@@ -28,7 +28,7 @@ My entry into the digital humanities was almost accidental. In 2019, while worki
 
 Today, I use computational methods to expand the study of manuscripts and cultural history. My work includes textual analysis (distant reading, topic modeling, handwritten text recognition, stylometry), visual analysis (neural networks, image processing, feature detection), and spatial approaches (GIS, mapping). These tools allow me to ask questions at scale that were once impossible to pursue.
 
-I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* is under contract with Arc Humanities Press. My dissertation, a large-scale recovery project on female scribes, relies on both qualitative and quantitative analysis, combined with computational approaches.  
+I have published in several peer-reviewed journals, and my co-authored book with Dr. Wrisley, *Medieval Manuscripts and the Computational Humanities : Big Data, Scribes, and the “Paris Bible,"* was published by Arc Humanities Press in 2026 and is available [open access](https://www.arc-humanities.org/9781802702439/medieval-manuscripts-and-the-computational-humanities/). My dissertation, a large-scale recovery project on female scribes, relies on both qualitative and quantitative analysis, combined with computational approaches.
 
 
 # Cultural and Intellectual Exchanges, Global History
@@ -36,6 +36,6 @@ I am also an interdisciplinary researcher deeply interested in cultural and inte
 
 As part of the Louvre Abu Dhabi scientific team, I contributed to both the Permanent Galleries and major exhibitions, including *Furusiyya: The Art of Chivalry between East and West*, where I served as Scientific Referent. These projects explored themes such as pilgrimage, religious expression across cultures, trade routes, and scientific exchange.
 
-Beyond exhibitions, I also developed educational tools—including the Sacred Texts Flipbooks, which present and compare manuscripts from Christianity, Judaism, Islam, and Buddhism. Another project, currently on pause, *Mapping Pilgrimage Roads*, draws on a unique manuscript from the Louvre Abu Dhabi collection to explore mobility, devotion, and spatial history.
+Beyond exhibitions, I also developed educational tools—including the Sacred Texts Flipbooks, which present and compare manuscripts from Christianity, Judaism, Islam, and Buddhism. Another project, *Mapping Pilgrimage Roads*, draws on a unique manuscript from the Louvre Abu Dhabi collection to explore mobility, devotion, and spatial history.
 
 <br>

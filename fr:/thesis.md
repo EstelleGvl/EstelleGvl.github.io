@@ -14,6 +14,8 @@ Mon parcours à Yale est profondément interdisciplinaire, combinant l’étude 
 En dehors de l’enseignement, j’ai participé activement à la vie académique et communautaire de Yale : cofondatrice du Yale Digital Humanities Graduate Student Colloquium, élue représentante à la [Graduate Student Assembly](https://gsa.yale.edu/), et présidente des [Yale Lectures in Medieval Studies](https://medieval.yale.edu/yale-lectures-medieval-studies), pour lesquelles j’ai levé 22 000 $ afin de financer le programme 2024–2025.
 
 
+En juin 2026, j’ai également enseigné au Digital Humanities Summer Institute (DHSI), dans le cours *From Handwritten Document to Computable Object: Critical Approaches to Automatic Text Recognition for the Digital Humanities*.
+
 # Thèse
 *« Qui scripsit scribat semper. » Les pratiques des femmes copistes dans l’Europe médiévale*
 
@@ -24,6 +26,9 @@ Ma thèse est un projet de redécouverte visant à identifier et contextualiser 
 
 # Distinctions, bourses et financements
 Mes recherches ont été soutenues par de nombreux prix internes et externes, parmi lesquels :  
+- [Mellon/ACLS Dissertation Innovation Fellowship](https://medieval.yale.edu/posts/2026-04-29-estelle-gueville-among-three-phd-students-named-2026-mellonacls-dissertation) (2026–2027)
+- Transkribus Scholarship (2026–2027)
+- Early-Career Scholar Best Paper Award, Humanistica (2026)
 - [MacMillan International Dissertation Research Fellowship](https://macmillan.yale.edu/) (Yale, 2025)  
 - [Bourse Mark Pigott – Humanités numériques](https://www.bnf.fr/fr/appel-chercheurs-associes-2025-2026), Bibliothèque nationale de France (2025)  
 - [Sterling Prize Fellowship](https://gsas.yale.edu/funding-aid/internal-fellowships/sterling-prize-fellowship) (Yale University, 2022–24)  
@@ -37,3 +42,5 @@ Ces soutiens m’ont permis de mener des recherches en archives à travers l’E
 Je suis attachée à l’engagement institutionnel, à la collaboration et aux humanités publiques. À [Yale University](https://www.yale.edu/), j’ai été élue représentante à la [Graduate Student Assembly](https://gsa.yale.edu/), co-capitaine du [Graduate Rugby Football Club](https://www.yalegradrugby.org/), et organisatrice de colloques doctoraux.  
 
 Au-delà de Yale, j’ai été membre du [Digital Medievalist Postgraduate Committee](https://digitalmedievalist.wordpress.com/) et je suis actuellement membre de plusieurs associations professionnelles, dont la [Medieval Academy of America](https://medievalacademy.org/), l’[International Center of Medieval Art](https://www.medievalart.org/), et l’[European Association for Digital Humanities](https://eadh.org/).
+
+Je suis Deputy Conference Officer de l’[Alliance of Digital Humanities Organizations (ADHO)](https://adho.org/) pour 2026–2027, puis exercerai la fonction de Conference Officer pour 2027–2029. Depuis 2026, je suis également vice-présidente de son groupe d’intérêt AudioVisual Material in Digital Humanities (AVinDH), après avoir participé à son comité d’organisation en 2025–2026.
